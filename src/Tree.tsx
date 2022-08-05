@@ -79,7 +79,7 @@ export default function Tree({ data }) {
           return 5;
         },
         getHGap: function getHGap() {
-          return 100;
+          return 200;
         },
       },
     });
