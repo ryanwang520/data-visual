@@ -1,94 +1,75 @@
-import ReactDOM from 'react-dom'
+import ReactDOM from "react-dom";
 import G6 from "@antv/g6";
 import { useEffect, useRef } from "react";
 const data = {
   isRoot: true,
-  id: "Root",
+  id: "root",
   style: {
     fill: "red",
   },
+  name: "root",
   children: [
     {
-      id: "SubTreeNode1",
-      raw: {},
-      children: [
-        {
-          id: "SubTreeNode1.1",
-        },
-        {
-          id: "SubTreeNode1.2",
-          children: [
-            {
-              id: "SubTreeNode1.2.1",
-            },
-            {
-              id: "SubTreeNode1.2.2",
-            },
-            {
-              id: "SubTreeNode1.2.3",
-            },
-          ],
-        },
-      ],
+      id: "1",
+      name: "bundle1",
+      options: ["a", "b", "c"],
+      children: [],
     },
     {
-      id: "SubTreeNode2",
-      children: [
-        {
-          id: "SubTreeNode2.1",
-        },
-      ],
+      id: "2",
+      name: "bundle2",
+      children: [],
     },
     {
-      id: "SubTreeNode3",
-      children: [
-        {
-          id: "SubTreeNode3.1",
-        },
-        {
-          id: "SubTreeNode3.2",
-        },
-        {
-          id: "SubTreeNode3.3",
-        },
-      ],
-    },
-    {
-      id: "SubTreeNode4",
-    },
-    {
-      id: "SubTreeNode5",
-    },
-    {
-      id: "SubTreeNode6",
-    },
-    {
-      id: "SubTreeNode7",
-    },
-    {
-      id: "SubTreeNode8",
-    },
-    {
-      id: "SubTreeNode9",
-    },
-    {
-      id: "SubTreeNode10",
-    },
-    {
-      id: "SubTreeNode11",
+      id: "3",
+      name: "bundle3",
+      children: [],
     },
   ],
 };
 
 export default function Tree() {
-  const node = useRef<HTMLDivElement|null>(null);
+  const node = useRef<HTMLDivElement | null>(null);
 
+  let graph = null;
   useEffect(() => {
-    const container = node.current!
-    const graph = new G6.TreeGraph({
-      container:node.current!,
-      width:1200,
-      height:800,
+    if (graph) {
+      return;
+    }
+    const tooltip = new G6.Tooltip({
+      offsetX: 10,
+      offsetY: 10,
+      // the types of items that allow the tooltip show up
+      // 允许出现 tooltip 的 item 类型
+      itemTypes: ["node"],
+      // custom the tooltip's content
+      // 自定义 tooltip 内容
+      getContent: (e) => {
+        const outDiv = document.createElement("div");
+        console.log(e.item?.getModel().options);
+        outDiv.style.width = "fit-content";
+        //outDiv.style.padding = '0px 0px 20px 0px';
+        outDiv.innerHTML = `
+          <ul>
+          ${(e.item?.getModel().options || [])
+            .map((item) => `<li>${item}</li>`)
+            .join("")}
+          </ul>
+          `;
+        return outDiv;
+      },
+      shouldBegin: (e) => {
+        return true;
+      },
+    });
+
+    const container = node.current!;
+    // const width = container.scrollWidth;
+    // const height = container.scrollHeight || 500;
+    graph = new G6.TreeGraph({
+      container: node.current!,
+      width: 1000,
+      height: 800,
       linkCenter: true,
       modes: {
         default: [
@@ -107,6 +88,7 @@ export default function Tree() {
       defaultNode: {
         size: 30,
       },
+      plugins: [tooltip],
       layout: {
         type: "compactBox",
         direction: "LR",
@@ -139,7 +121,7 @@ export default function Tree() {
           fill: "#C6E5FF",
           stroke: "#5B8FF9",
         },
-        label: node.id,
+        label: node.name,
         labelCfg: {
           position:
             node.children && node.children.length > 0 ? "left" : "right",
