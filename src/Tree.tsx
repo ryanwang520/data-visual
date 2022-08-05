@@ -1,32 +1,36 @@
 import ReactDOM from "react-dom";
 import G6 from "@antv/g6";
 import { useEffect, useRef } from "react";
-const data = {
-  isRoot: true,
-  id: "root",
-  style: {
-    fill: "red",
-  },
-  name: "root",
-  children: [
-    {
-      id: "1",
-      name: "bundle1",
-      options: ["a", "b", "c"],
-      children: [],
-    },
-    {
-      id: "2",
-      name: "bundle2",
-      children: [],
-    },
-    {
-      id: "3",
-      name: "bundle3",
-      children: [],
-    },
-  ],
-};
+import data from "./data/bundles.json";
+// const data = {
+//   isRoot: true,
+//   id: "root",
+//   name: "root",
+//   children: [
+//     {
+//       id: "1",
+//       name: "bundle1",
+//       options: ["a", "b", "c"],
+//       children: [
+//         { id: "4", name: "bundle4" },
+//         { id: "5", name: "bundle4" },
+//       ],
+//     },
+//     {
+//       id: "2",
+//       name: "bundle2",
+//       children: [
+//         { id: "6", name: "bundle6" },
+//         { id: "7", name: "bundle7" },
+//       ],
+//     },
+//     {
+//       id: "3",
+//       name: "bundle3",
+//       children: [],
+//     },
+//   ],
+// };
 
 export default function Tree() {
   const node = useRef<HTMLDivElement | null>(null);
@@ -64,12 +68,12 @@ export default function Tree() {
     });
 
     const container = node.current!;
-    // const width = container.scrollWidth;
-    // const height = container.scrollHeight || 500;
+    const width = container.scrollWidth;
+    const height = container.scrollHeight;
     graph = new G6.TreeGraph({
       container: node.current!,
-      width: 1000,
-      height: 800,
+      width,
+      height: 2000,
       linkCenter: true,
       modes: {
         default: [
@@ -130,18 +134,18 @@ export default function Tree() {
       };
     });
     let i = 0;
-    graph.edge(function () {
-      i++;
-      return {
-        type: "cubic-horizontal",
-        color: "#A3B1BF",
-        label: i,
-      };
-    });
+    // graph.edge(function () {
+    //   i++;
+    //   return {
+    //     type: "cubic-horizontal",
+    //     color: "#A3B1BF",
+    //     label: i,
+    //   };
+    // });
 
     graph.data(data);
     graph.render();
-    graph.fitView();
+    graph.fitCenter();
 
     if (typeof window !== "undefined")
       window.onresize = () => {
