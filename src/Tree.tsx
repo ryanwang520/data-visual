@@ -63,7 +63,7 @@ export default function Tree() {
         return outDiv;
       },
       shouldBegin: (e) => {
-        return true;
+        return e.item?.getModel().type == "option_set";
       },
     });
 
@@ -106,7 +106,7 @@ export default function Tree() {
           return 16;
         },
         getVGap: function getVGap() {
-          return 10;
+          return 5;
         },
         getHGap: function getHGap() {
           return 100;
