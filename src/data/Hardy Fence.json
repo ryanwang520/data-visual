@@ -1,0 +1,1181 @@
+{
+  "isRoot": true,
+  "id": "root",
+  "name": "",
+  "children": [
+    {
+      "node_type": "bundle",
+      "name": "6' PTP Privacy",
+      "id": "6b7ef116-de45-4142-81f7-2a89a7f743e5",
+      "children": [
+        {
+          "name": "Concrete",
+          "id": "cf78310a-ee98-4ef9-be89-8a48a0bbd7a8",
+          "node_type": "product"
+        },
+        {
+          "name": "DE Pickets1x5.5x6",
+          "id": "22cbb611-07c3-4f22-95ed-d4183b744cc2",
+          "node_type": "product"
+        },
+        {
+          "name": "Framing Nails 3 1/4\"",
+          "id": "c17d4bdd-61da-46e4-a732-11e14d293422",
+          "node_type": "product"
+        },
+        {
+          "name": "Labor",
+          "id": "b7fc9cff-7e2a-4ce7-8cbd-1ffac9dec041",
+          "node_type": "product"
+        },
+        {
+          "name": "Picket Nails1 3/4\"",
+          "id": "c0467afe-77ee-4cda-a0a2-74f6ed18bf68",
+          "node_type": "product"
+        },
+        {
+          "name": "Post 4x4X8",
+          "id": "dfa8aa9f-ff73-467f-a66d-deeb281f658c",
+          "node_type": "product"
+        },
+        {
+          "name": "Rail 2x4x8",
+          "id": "dda64ebc-0f07-4f05-a8e2-f19b7af57c4b",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "testbundle",
+      "id": "a73ef337-f185-452b-8cc9-635999be90c7",
+      "children": [
+        {
+          "node_type": "bundle",
+          "name": "10'W x 6'H Horizontal Tight Gate",
+          "id": "02bc7bda-92f1-4973-a35e-9a27d29581b3",
+          "children": [
+            {
+              "name": "4x4x10 Pine Post",
+              "id": "1e04bcc6-0b17-44c4-b030-3f42f2cd58bb",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x10 Cedar Board",
+              "id": "e38c31a1-5cef-4bd2-a64b-4c4ea20145dd",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x8 Cedar Board",
+              "id": "42460270-174c-4b53-a44c-40f2c3b383e9",
+              "node_type": "product"
+            },
+            {
+              "name": "1x5.5X6 Cedar Picket",
+              "id": "2961bdfd-461f-4ed9-8d9f-ed54736e85a1",
+              "node_type": "product"
+            },
+            {
+              "name": "Wood Gate Latch Set",
+              "id": "e75377c8-aa64-472e-887c-187f43d5597b",
+              "node_type": "product"
+            },
+            {
+              "name": "Butterfly Hinge Set",
+              "id": "e1f81ee2-a179-458b-ade6-6744c5658109",
+              "node_type": "product"
+            },
+            {
+              "name": "Gate Pull",
+              "id": "55e97b4c-1886-4ba8-87b1-60c15bbdf4af",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt",
+              "id": "471f53e3-1013-4c47-bac7-0349ba95fec5",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "354eed2b-86ef-4b86-b428-a5445d5169e8",
+              "node_type": "product"
+            },
+            {
+              "name": "Concrete (60 lb bag)",
+              "id": "1e1cf867-a81a-4eeb-8b13-ce46256ef0f1",
+              "node_type": "product"
+            },
+            {
+              "name": "Labor - Wood DG",
+              "id": "1006ea85-a453-4d65-810e-1843e814e47b",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 2\"",
+              "id": "2b256c8c-0adf-4ff7-a8a0-d574c93b8d31",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "node_type": "bundle",
+          "name": "10'W x 6'H Horizontal w Trim Gate",
+          "id": "b4dc8e23-d32d-4e9f-8e16-3bddae73fbde",
+          "children": [
+            {
+              "name": "4x4x10 Pine Post",
+              "id": "46abd7e7-a1b7-4eb2-ae00-a9e7266b3977",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x10 Cedar Board",
+              "id": "17499480-fdc3-4691-b78d-992221326136",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x8 Cedar Board",
+              "id": "6839890f-c646-44a6-a6bb-eeda48fead5d",
+              "node_type": "product"
+            },
+            {
+              "name": "1x5.5X6 Cedar Picket",
+              "id": "23d98727-ac25-4ac4-8952-323701509598",
+              "node_type": "product"
+            },
+            {
+              "name": "Wood Gate Latch Set",
+              "id": "25179e06-5a9d-4a9a-8b6d-0e5e633b9ee3",
+              "node_type": "product"
+            },
+            {
+              "name": "Butterfly Hinge Set",
+              "id": "3b546e52-cdb8-4992-8ae6-a9af0666c209",
+              "node_type": "product"
+            },
+            {
+              "name": "Gate Pull",
+              "id": "cef8ee39-e2b0-42ef-936d-9ecc5486eba9",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt",
+              "id": "c9630249-978c-44f1-94fd-c96bd0c97fcf",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "d93a7636-60f5-4897-9052-a95f11813c8f",
+              "node_type": "product"
+            },
+            {
+              "name": "Concrete (60 lb bag)",
+              "id": "6dd77e41-f276-4b9d-b343-4226f5b0e21a",
+              "node_type": "product"
+            },
+            {
+              "name": "Labor - Wood DG",
+              "id": "aba25ebb-857b-4d70-bafe-4cf7dc2c9276",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 2\"",
+              "id": "5db1a683-6533-45b6-8359-c65565f81495",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "node_type": "bundle",
+          "name": "10'Wx 6'H Cap N Trim Gate",
+          "id": "17e826a5-bd4e-4e21-84b7-017897a7767f",
+          "children": [
+            {
+              "name": "4x4x10 Cedar Post",
+              "id": "2cdff390-107c-4069-b931-01a2c3f04f3f",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x8 Cedar Board",
+              "id": "5db2f97c-f347-4a32-85bf-20a2ce695b40",
+              "node_type": "product"
+            },
+            {
+              "name": "1x5.5X6 Cedar Picket",
+              "id": "fabeb0b8-c23c-47bc-a3c8-a0bbbf4665be",
+              "node_type": "product"
+            },
+            {
+              "name": "1x3X6 Cap N Trim Cedar Picket Rip G",
+              "id": "aa022087-010f-4864-8f8d-54217bb69048",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 3\u201d",
+              "id": "b8a6d0e3-c44d-43f2-bbbf-8f142d5541ac",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 2\"",
+              "id": "9b8d449a-6f83-4ff5-b56b-d788c34adcf1",
+              "node_type": "product"
+            },
+            {
+              "name": "4x4 Cedar Post Cap - Gate",
+              "id": "20ad19f7-50a9-45c2-a179-353ff03f752b",
+              "node_type": "product"
+            },
+            {
+              "name": "Wood Gate Latch Set",
+              "id": "878394a9-16fc-488d-9850-4c4e3c00fcf6",
+              "node_type": "product"
+            },
+            {
+              "name": "Butterfly Hinge Set",
+              "id": "65a4d9ce-fa65-4b81-8a26-c665c20b0441",
+              "node_type": "product"
+            },
+            {
+              "name": "Gate Pull",
+              "id": "34b61dee-c9be-4802-9512-716f7d922f0b",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt",
+              "id": "9f9d6715-fb0b-47a6-9dfa-1abed2462bed",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "9542eec6-1a34-47f5-b4b3-400e3993f2bd",
+              "node_type": "product"
+            },
+            {
+              "name": "Labor - Wood DG - Cap N Trim",
+              "id": "941718c8-0c97-400d-bfa7-ac6698c8c1b2",
+              "node_type": "product"
+            },
+            {
+              "name": "Concrete (60 lb bag)",
+              "id": "a9973f00-ad01-4297-b339-f4bb3a065da3",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "375d57d8-040d-461c-93f9-c39380740131",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "name": "Wood Labor",
+          "id": "3500a3d5-76cf-4c6f-9381-bb3ab5abea7f",
+          "options": [
+            "Labor - BoB",
+            "Labor - BoB PF",
+            "Labor - Hor w T",
+            "Labor - SB",
+            "Labor - SB PF",
+            "Labor - Shadow",
+            "Labor - Horizontal Tight",
+            "Labor - Cap n Trim",
+            "Labor - Trellis",
+            "Labor - Shadow Scal"
+          ],
+          "node_type": "option_set"
+        },
+        {
+          "name": "1.5\" x 1.5\" x 32\" Traditional Baluster - Beige",
+          "id": "db6e2d2d-549b-4980-be89-5228f675a20a",
+          "node_type": "product"
+        },
+        {
+          "name": "1.5\" x 1.5\" x 32\" Traditional Baluster - Clay",
+          "id": "8c0f6edf-b588-4a59-82e7-5ebac6b31762",
+          "node_type": "product"
+        },
+        {
+          "name": "1.5\" x 1.5\" x 32\" Traditional Baluster - Grey",
+          "id": "e616d669-c4a8-4e0a-8c07-2e92ef4c236c",
+          "node_type": "product"
+        },
+        {
+          "name": "Tie Wires",
+          "id": "c30db00f-163f-4f92-a9f1-5e90be1c83ef",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "hallo1",
+      "id": "d089f2e0-355b-43eb-9439-0e7687ea4bef",
+      "children": [
+        {
+          "node_type": "bundle",
+          "name": "10'W x 6'H Horizontal Tight Gate",
+          "id": "d6612706-4e51-4772-9a4a-f65ab41a63c1",
+          "children": [
+            {
+              "name": "4x4x10 Pine Post",
+              "id": "1c05c8ef-0e07-44a5-8590-c53efa01f081",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x10 Cedar Board",
+              "id": "39dee86e-00de-4444-bd99-d301eec89fc5",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x8 Cedar Board",
+              "id": "9ec382f1-3668-48d2-8c8b-02a15a23f9e9",
+              "node_type": "product"
+            },
+            {
+              "name": "1x5.5X6 Cedar Picket",
+              "id": "66acefca-1f26-43e1-b53d-862ad74a01d0",
+              "node_type": "product"
+            },
+            {
+              "name": "Wood Gate Latch Set",
+              "id": "d1ff8f38-5ba4-4ad5-93be-f71a53d52fb6",
+              "node_type": "product"
+            },
+            {
+              "name": "Butterfly Hinge Set",
+              "id": "6255fb44-a26c-47d9-ba14-a95f09a071a9",
+              "node_type": "product"
+            },
+            {
+              "name": "Gate Pull",
+              "id": "6077480d-9c72-4fd7-a32e-3457feaad6e7",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt",
+              "id": "f6fdd6d6-bc27-4c83-8ed4-d0d55c862058",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "793a7833-c6c7-4366-9533-132c5d80009c",
+              "node_type": "product"
+            },
+            {
+              "name": "Concrete (60 lb bag)",
+              "id": "9b59ec87-bdfd-46d6-8c65-02719314939c",
+              "node_type": "product"
+            },
+            {
+              "name": "Labor - Wood DG",
+              "id": "51a1ad41-9fbf-437b-8d87-4c4f3add261f",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 2\"",
+              "id": "bcedffa3-1bd9-4294-8f61-dee1f4d008c3",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "node_type": "bundle",
+          "name": "10'W x 6'H Horizontal w Trim Gate",
+          "id": "c5693d4a-edf2-44a2-941b-82600cfa39eb",
+          "children": [
+            {
+              "name": "4x4x10 Pine Post",
+              "id": "be48cd7a-36b9-4f85-b275-9085d0544f85",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x10 Cedar Board",
+              "id": "19d5f2a7-de22-45f8-bc65-db1fd7ca942e",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x8 Cedar Board",
+              "id": "062a5d1f-0d78-4f99-b6b1-b229062e491a",
+              "node_type": "product"
+            },
+            {
+              "name": "1x5.5X6 Cedar Picket",
+              "id": "d3aa2b3d-a84a-43d0-b796-4f229c8e2af0",
+              "node_type": "product"
+            },
+            {
+              "name": "Wood Gate Latch Set",
+              "id": "07dbebe3-cc12-4318-9948-30d91e505582",
+              "node_type": "product"
+            },
+            {
+              "name": "Butterfly Hinge Set",
+              "id": "ddcb8a70-d76b-4418-8fbc-acbe2ae20283",
+              "node_type": "product"
+            },
+            {
+              "name": "Gate Pull",
+              "id": "2d86c82d-ad71-477e-9745-02e4afa6e841",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt",
+              "id": "5419b96e-7312-4973-84bd-f882b3d9a9f4",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "64f889fb-5300-4cbd-a9e8-338a2bea2b82",
+              "node_type": "product"
+            },
+            {
+              "name": "Concrete (60 lb bag)",
+              "id": "4ad31f7c-a889-43c6-ab2c-a55e5cb382b7",
+              "node_type": "product"
+            },
+            {
+              "name": "Labor - Wood DG",
+              "id": "dfc8b6b0-d2f2-431e-815a-a495faaf1032",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 2\"",
+              "id": "40db676c-a46a-4d78-8ec5-b2f3859dd8e1",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "node_type": "bundle",
+          "name": "bundle1",
+          "id": "c5ce2c34-96ee-49e3-8fa2-c399c5a70745",
+          "children": [
+            {
+              "name": "test",
+              "id": "1f008cbe-4c92-4c29-9be6-360e675cefb4",
+              "node_type": "product"
+            },
+            {
+              "name": "4x4 Cedar Post Cap - Gate",
+              "id": "46faf0a0-13d6-4101-af40-67d1643d8c04",
+              "node_type": "product"
+            },
+            {
+              "name": "Vinyl - 4\" Post Caps - Beige",
+              "id": "27d30f7e-e37a-4fb5-8566-375d30c747c1",
+              "options": [
+                "4\" External Flat - Beige",
+                "4\" New England - Beige",
+                "4\" French Gothic - Beige",
+                "4\" Ball - Beige",
+                "4\" Teardrop - Beige",
+                "4\" Coachman - Beige"
+              ],
+              "node_type": "option_set"
+            }
+          ]
+        },
+        {
+          "node_type": "bundle",
+          "name": "hallo",
+          "id": "fe6b38e1-5f80-4ea9-9deb-4f5a3b32b06a",
+          "children": [
+            {
+              "node_type": "bundle",
+              "name": "10'W x 6'H Horizontal Tight Gate",
+              "id": "e38ece9e-89cd-4205-abfe-0fe61d4aca71",
+              "children": [
+                {
+                  "name": "4x4x10 Pine Post",
+                  "id": "2b60a589-b101-47d4-975d-fa8d6d733c65",
+                  "node_type": "product"
+                },
+                {
+                  "name": "2x4x10 Cedar Board",
+                  "id": "881e9fe6-42ba-4ea9-af7e-bd08266fe7db",
+                  "node_type": "product"
+                },
+                {
+                  "name": "2x4x8 Cedar Board",
+                  "id": "77ea7aba-d992-4fcf-b57d-6939e9055c5c",
+                  "node_type": "product"
+                },
+                {
+                  "name": "1x5.5X6 Cedar Picket",
+                  "id": "c31157de-959a-40aa-8ec2-a195b7c4a77d",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Wood Gate Latch Set",
+                  "id": "5595d567-2d05-4dc2-b3fe-622da3434b06",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Butterfly Hinge Set",
+                  "id": "d569eb43-d654-4a9f-b8cf-182a046e9920",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Gate Pull",
+                  "id": "bf4b92ba-8e41-4e9e-8d73-edf6d547987b",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Cane Bolt",
+                  "id": "b739d433-2cd2-4de3-8bea-a83434f3d03d",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Cane Bolt Sleeve",
+                  "id": "556bf4df-ad45-41f1-84aa-6164ff5ed3a4",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Concrete (60 lb bag)",
+                  "id": "307f88e1-a51b-4554-80c6-0fe6230e786b",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Labor - Wood DG",
+                  "id": "f746712e-f3f1-4a85-a7a3-1a491ea8dd0f",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Nails 2\"",
+                  "id": "3b187356-60a8-49e1-ba57-09b860b36d6c",
+                  "node_type": "product"
+                }
+              ]
+            },
+            {
+              "node_type": "bundle",
+              "name": "10'W x 6'H Horizontal w Trim Gate",
+              "id": "11725132-4dc6-4f3b-b9e7-386ca07ecc57",
+              "children": [
+                {
+                  "name": "4x4x10 Pine Post",
+                  "id": "8ea61151-3b33-4b4b-b353-d6966218028c",
+                  "node_type": "product"
+                },
+                {
+                  "name": "2x4x10 Cedar Board",
+                  "id": "e6eade3c-9ab5-4968-995b-37472d4eb85b",
+                  "node_type": "product"
+                },
+                {
+                  "name": "2x4x8 Cedar Board",
+                  "id": "ba3b1262-43af-46bd-9927-97d0ae791c21",
+                  "node_type": "product"
+                },
+                {
+                  "name": "1x5.5X6 Cedar Picket",
+                  "id": "11c63dcd-6c31-44d6-9ecd-804cf66bd0df",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Wood Gate Latch Set",
+                  "id": "74af8d73-538c-4a01-9feb-e178273ffa25",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Butterfly Hinge Set",
+                  "id": "db61574e-8b5b-4644-98d3-1a4726425850",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Gate Pull",
+                  "id": "513ba621-bee0-40f0-a42e-2b82eb27ae9b",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Cane Bolt",
+                  "id": "5fa33016-856b-4432-bb21-a549130f5b19",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Cane Bolt Sleeve",
+                  "id": "0101de12-3f0e-42cd-86f3-a71963ad9fb0",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Concrete (60 lb bag)",
+                  "id": "36ffcf8e-f4f7-41cd-8456-ffefbe93f8bf",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Labor - Wood DG",
+                  "id": "496af8ea-ef9c-4c6c-9a7c-3aac43b0b1c5",
+                  "node_type": "product"
+                },
+                {
+                  "name": "Nails 2\"",
+                  "id": "6f40eea4-97b6-4a1a-be06-d113dbecfc13",
+                  "node_type": "product"
+                }
+              ]
+            },
+            {
+              "name": "Option Set 1",
+              "id": "2647183c-5f88-4e5e-83db-f32f1210e35f",
+              "options": [
+                "7/8\u2033 x 6\u2033 x 45\" Tongue + Groove Board - Beige 4ft",
+                "7/8\u2033 x 6\u2033 x 62\" Tongue + Groove Board - Beige 5ft/6ft"
+              ],
+              "node_type": "option_set"
+            }
+          ]
+        },
+        {
+          "name": "Option Set 1",
+          "id": "72c6970d-c23e-43be-9a87-0bdf8afc05fd",
+          "options": [
+            "7/8\u2033 x 6\u2033 x 45\" Tongue + Groove Board - Beige 4ft",
+            "7/8\u2033 x 6\u2033 x 62\" Tongue + Groove Board - Beige 5ft/6ft"
+          ],
+          "node_type": "option_set"
+        },
+        {
+          "name": "Concrete",
+          "id": "d4bccbe9-86dd-4248-b931-96e70dfaaf54",
+          "node_type": "product"
+        },
+        {
+          "name": "Part With Modifier",
+          "id": "a42882e6-85a3-4dc7-b666-f09fe8b96717",
+          "node_type": "product"
+        },
+        {
+          "name": "Price Not Set",
+          "id": "d64e3f1d-97b4-4df7-99cc-58570eef84ad",
+          "node_type": "product"
+        },
+        {
+          "name": "Tie Wires",
+          "id": "08bc4611-28a4-49dc-9891-704748e55ae2",
+          "node_type": "product"
+        },
+        {
+          "name": "Vibration Install Labor",
+          "id": "25be355e-5c6d-438e-9cfe-3cfce0c4d7a5",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "hallo",
+      "id": "1b995b28-76bf-4366-8c49-0ab47496b038",
+      "children": [
+        {
+          "node_type": "bundle",
+          "name": "10'W x 6'H Horizontal Tight Gate",
+          "id": "04709439-9fbb-430d-b38f-c2cceff75785",
+          "children": [
+            {
+              "name": "4x4x10 Pine Post",
+              "id": "defccfa5-55db-4b0d-805b-0fc0a2673450",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x10 Cedar Board",
+              "id": "ac9532c6-45ee-4edf-a16b-828e528f3e83",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x8 Cedar Board",
+              "id": "10fc7294-69b4-4e61-8988-7a0856f529fb",
+              "node_type": "product"
+            },
+            {
+              "name": "1x5.5X6 Cedar Picket",
+              "id": "93d96464-9d91-4c24-8229-f9201975c4f6",
+              "node_type": "product"
+            },
+            {
+              "name": "Wood Gate Latch Set",
+              "id": "9aa4cd31-e5ee-4ea2-9e18-7c854899f4d1",
+              "node_type": "product"
+            },
+            {
+              "name": "Butterfly Hinge Set",
+              "id": "804aab40-baa4-492b-9b01-4ee975063d99",
+              "node_type": "product"
+            },
+            {
+              "name": "Gate Pull",
+              "id": "28038ac2-aa3d-4ffb-ac79-0640cd62103d",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt",
+              "id": "d247eb2f-1782-495d-9731-7139937549ff",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "3791b25a-508b-48eb-b0bc-1f8398c25585",
+              "node_type": "product"
+            },
+            {
+              "name": "Concrete (60 lb bag)",
+              "id": "38e8641a-987a-48d6-8504-188c64cd92aa",
+              "node_type": "product"
+            },
+            {
+              "name": "Labor - Wood DG",
+              "id": "2acb2e0e-8cee-41e5-900b-959c88dff4dd",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 2\"",
+              "id": "50aaae91-09fd-402b-9154-9033e8441048",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "node_type": "bundle",
+          "name": "10'W x 6'H Horizontal w Trim Gate",
+          "id": "13e975e2-cdca-495e-9f4d-52edfee6eca9",
+          "children": [
+            {
+              "name": "4x4x10 Pine Post",
+              "id": "e9f419d3-06f8-4c53-9fa9-78a98a8ca3ce",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x10 Cedar Board",
+              "id": "81f93312-42ff-4305-b08e-84152415153f",
+              "node_type": "product"
+            },
+            {
+              "name": "2x4x8 Cedar Board",
+              "id": "669a4780-605e-4378-8ee2-d74df43a1a8a",
+              "node_type": "product"
+            },
+            {
+              "name": "1x5.5X6 Cedar Picket",
+              "id": "8c3309b4-38d4-40b8-a544-fdfbcaa36ee3",
+              "node_type": "product"
+            },
+            {
+              "name": "Wood Gate Latch Set",
+              "id": "ca4d3f99-3057-4da0-a626-6b9a31bcadc1",
+              "node_type": "product"
+            },
+            {
+              "name": "Butterfly Hinge Set",
+              "id": "807e77d9-e5ae-4365-9400-b04c9fe3c6ed",
+              "node_type": "product"
+            },
+            {
+              "name": "Gate Pull",
+              "id": "dc61b9c0-807d-4414-a818-e720dfc95a9a",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt",
+              "id": "12f74263-e295-4429-85e2-dd8d7da99c6d",
+              "node_type": "product"
+            },
+            {
+              "name": "Cane Bolt Sleeve",
+              "id": "8c3bb084-1492-461b-9aeb-70e3635f0b72",
+              "node_type": "product"
+            },
+            {
+              "name": "Concrete (60 lb bag)",
+              "id": "0b777b13-a3f4-4265-9897-247ef1340e95",
+              "node_type": "product"
+            },
+            {
+              "name": "Labor - Wood DG",
+              "id": "d0eaa53b-df12-402a-abe1-f93f40a02ccb",
+              "node_type": "product"
+            },
+            {
+              "name": "Nails 2\"",
+              "id": "34e068f7-6bb9-48e2-bfb3-5dc42709cb89",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "name": "Option Set 1",
+          "id": "acc4c6d4-d012-4d9d-a988-bd59b79d267f",
+          "options": [
+            "7/8\u2033 x 6\u2033 x 45\" Tongue + Groove Board - Beige 4ft",
+            "7/8\u2033 x 6\u2033 x 62\" Tongue + Groove Board - Beige 5ft/6ft"
+          ],
+          "node_type": "option_set"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "10'W x 6'H Horizontal w Trim Gate",
+      "id": "2c873c1d-1275-4356-ba44-95aec1d1386b",
+      "children": [
+        {
+          "name": "4x4x10 Pine Post",
+          "id": "b61371b7-33aa-4046-a010-0675431891d8",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x10 Cedar Board",
+          "id": "369d04ed-d15c-49a9-8e90-f2841b5a5f18",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x8 Cedar Board",
+          "id": "b58f600f-9e02-48a1-b8c0-9cb39ee57b84",
+          "node_type": "product"
+        },
+        {
+          "name": "1x5.5X6 Cedar Picket",
+          "id": "d46f8834-9148-42aa-904f-4f20d9895ea0",
+          "node_type": "product"
+        },
+        {
+          "name": "Wood Gate Latch Set",
+          "id": "88321c51-ba87-47f8-88cf-5a84bcce9591",
+          "node_type": "product"
+        },
+        {
+          "name": "Butterfly Hinge Set",
+          "id": "f0806854-0919-453d-b464-ecfacb7f1775",
+          "node_type": "product"
+        },
+        {
+          "name": "Gate Pull",
+          "id": "bbe1f41f-eacc-43ea-b800-38a2ee994f3e",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt",
+          "id": "bc63ade9-8411-42ef-a39c-4af51397c390",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt Sleeve",
+          "id": "4e92c50e-3370-466a-bb1d-9cf25b35769b",
+          "node_type": "product"
+        },
+        {
+          "name": "Concrete (60 lb bag)",
+          "id": "c013dcee-4af0-4d99-bcd7-2e44fa5fa0c8",
+          "node_type": "product"
+        },
+        {
+          "name": "Labor - Wood DG",
+          "id": "d57e9cf8-ee83-4eb4-9ea9-d2c34291b40a",
+          "node_type": "product"
+        },
+        {
+          "name": "Nails 2\"",
+          "id": "e91266d9-5fc3-40fb-8da1-b3ec90a77fde",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "10'Wx 6'H Cap N Trim Gate",
+      "id": "67b2a668-c173-4d81-94ae-9b3bb66572a2",
+      "children": [
+        {
+          "name": "4x4x10 Cedar Post",
+          "id": "c604b1a5-9de8-4429-b5a1-e307d2b6a036",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x8 Cedar Board",
+          "id": "21f8b72a-1515-4e78-b19c-501701868d9a",
+          "node_type": "product"
+        },
+        {
+          "name": "1x5.5X6 Cedar Picket",
+          "id": "c38b0e65-0d34-4aef-b2ab-09f522ddf830",
+          "node_type": "product"
+        },
+        {
+          "name": "1x3X6 Cap N Trim Cedar Picket Rip G",
+          "id": "b092a05b-0b46-4d64-b73b-abfd3b3dcfaa",
+          "node_type": "product"
+        },
+        {
+          "name": "Nails 3\u201d",
+          "id": "a4308023-3412-4eb2-876e-2b9edba7f86c",
+          "node_type": "product"
+        },
+        {
+          "name": "Nails 2\"",
+          "id": "0fb3979a-d57b-4feb-8807-689c269d4919",
+          "node_type": "product"
+        },
+        {
+          "name": "4x4 Cedar Post Cap - Gate",
+          "id": "e3b8e137-d6d0-4d01-9989-e5ebc6454a98",
+          "node_type": "product"
+        },
+        {
+          "name": "Wood Gate Latch Set",
+          "id": "4b88f991-0418-497d-b1fe-c6190d55bb65",
+          "node_type": "product"
+        },
+        {
+          "name": "Butterfly Hinge Set",
+          "id": "5185d5c4-74d6-4829-a7f4-4679dd2d58ef",
+          "node_type": "product"
+        },
+        {
+          "name": "Gate Pull",
+          "id": "79c18021-e640-4bbb-b26c-88c7067a97c4",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt",
+          "id": "0ea7f067-7ab5-40f8-b07d-e89dbb7093fb",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt Sleeve",
+          "id": "32a41efb-6614-4fa0-9c39-02dcf2584a35",
+          "node_type": "product"
+        },
+        {
+          "name": "Labor - Wood DG - Cap N Trim",
+          "id": "948fafce-0e2a-4564-94e7-edee7ed1e5d7",
+          "node_type": "product"
+        },
+        {
+          "name": "Concrete (60 lb bag)",
+          "id": "88bc4170-a224-48cd-baf2-ca5ee560bbcb",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt Sleeve",
+          "id": "1db0910a-4e03-4d58-af85-7d439014c160",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "10'W x 6'H Horizontal Tight Gate",
+      "id": "8d68331d-6278-4f1d-86f9-ae1f525cfa34",
+      "children": [
+        {
+          "name": "4x4x10 Pine Post",
+          "id": "eac75914-1f8d-4ee3-8444-83cc023ec4de",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x10 Cedar Board",
+          "id": "d1443857-58fd-4127-ab8e-baf862fe2167",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x8 Cedar Board",
+          "id": "cfd69c1a-f9b5-4090-b744-84d0c5cb5e6b",
+          "node_type": "product"
+        },
+        {
+          "name": "1x5.5X6 Cedar Picket",
+          "id": "a4f34ce3-6e0b-461d-ba21-981689089d40",
+          "node_type": "product"
+        },
+        {
+          "name": "Wood Gate Latch Set",
+          "id": "4dd2a672-e693-4509-8f48-dcc50a49950d",
+          "node_type": "product"
+        },
+        {
+          "name": "Butterfly Hinge Set",
+          "id": "d51b00d2-0964-4e58-b79c-e0ef22c9c8f9",
+          "node_type": "product"
+        },
+        {
+          "name": "Gate Pull",
+          "id": "2cfef783-346b-41fd-ad98-e425bb94e0a4",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt",
+          "id": "6034337e-2269-4e76-8148-002c594022de",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt Sleeve",
+          "id": "eb2812e1-a406-4aea-b014-109b1914cfc6",
+          "node_type": "product"
+        },
+        {
+          "name": "Concrete (60 lb bag)",
+          "id": "2a0730b6-2ce1-4800-94eb-811e7e225a3a",
+          "node_type": "product"
+        },
+        {
+          "name": "Labor - Wood DG",
+          "id": "71d542cc-a8ff-4e98-a41d-7e1d4d88a958",
+          "node_type": "product"
+        },
+        {
+          "name": "Nails 2\"",
+          "id": "2584e7c9-0db1-46b5-91af-710f3f0a15c2",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "10'Wx 6'H BoB SPF Gate",
+      "id": "52777dda-43e9-4f39-82f9-c50454563ffa",
+      "children": [
+        {
+          "name": "4x4x10 Pine Post",
+          "id": "ab587050-4b48-47bd-b209-35cd5d2fc8c0",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x10 Cedar Board",
+          "id": "2a8bd676-3465-44f6-a446-488c2b722124",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x8 Cedar Board",
+          "id": "92aff7ce-05e6-4734-93e5-130d429bcc57",
+          "node_type": "product"
+        },
+        {
+          "name": "1x5.5X6 Cedar Picket",
+          "id": "76ff2508-f82d-4887-a3fc-8904df6f40d1",
+          "node_type": "product"
+        },
+        {
+          "name": "Nails 2\"",
+          "id": "205274db-bcf6-4c60-ae0f-04987c6f8c0e",
+          "node_type": "product"
+        },
+        {
+          "name": "Wood Gate Latch Set",
+          "id": "135e2712-1827-4012-aac7-aef8d704847e",
+          "node_type": "product"
+        },
+        {
+          "name": "Butterfly Hinge Set",
+          "id": "4584df2e-798f-4eb3-89cf-e3045243710b",
+          "node_type": "product"
+        },
+        {
+          "name": "Gate Pull",
+          "id": "d7654512-f3c1-4b0b-9b27-4228b3db8d15",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt",
+          "id": "98fbf7b8-fa70-4994-9c20-675a5d2c3298",
+          "node_type": "product"
+        },
+        {
+          "name": "Cane Bolt Sleeve",
+          "id": "62eb2607-0b44-4ea7-865e-5cb40993af7f",
+          "node_type": "product"
+        },
+        {
+          "name": "Labor - Wood DG",
+          "id": "4a1378eb-591f-45c6-95f2-22462c47453d",
+          "node_type": "product"
+        },
+        {
+          "name": "Concrete (60 lb bag)",
+          "id": "ddeee585-94a8-4210-ad86-ba18c8edab75",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "4'W x 6'H Solid Board Gate",
+      "id": "575ba290-cf86-4b20-9222-ab91b6344ea3",
+      "children": [
+        {
+          "name": "4x4x8 Pine Post",
+          "id": "ec07839e-551a-4db0-b7b5-b247c9047084",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x8 Cedar Board",
+          "id": "3b423e1d-b25b-4024-9636-83a9ce7a1581",
+          "node_type": "product"
+        },
+        {
+          "name": "1x5.5X6 Cedar Picket",
+          "id": "fb9cf8a3-b79f-4ce3-bde3-397835e913b0",
+          "node_type": "product"
+        },
+        {
+          "name": "Post Mount Gate Set",
+          "id": "a3459743-6df9-4fe4-90c4-7495ace434d8",
+          "node_type": "product"
+        },
+        {
+          "name": "Concrete (60 lb bag)",
+          "id": "2b46b4d1-e05a-4af5-a3b8-7eb87421f0a9",
+          "node_type": "product"
+        },
+        {
+          "name": "Nails 2\"",
+          "id": "d18fe281-33f7-4cbb-bf5c-1da61311756a",
+          "node_type": "product"
+        },
+        {
+          "name": "Labor - Wood SG",
+          "id": "8358fcdd-7599-44bb-b931-b215b0885661",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "node_type": "bundle",
+      "name": "4'W x 6'H Shadowbox Gate",
+      "id": "82ffdb8a-835a-415b-875b-f87a85ebb28a",
+      "children": [
+        {
+          "name": "4x4x8 Pine Post",
+          "id": "755c8b2a-f61c-43d6-9516-54e8e2855744",
+          "node_type": "product"
+        },
+        {
+          "name": "2x4x8 Cedar Board",
+          "id": "9e383884-bab8-4ce5-9101-180fb0d0d788",
+          "node_type": "product"
+        },
+        {
+          "name": "1x5.5X6 Cedar Picket",
+          "id": "5d595d4e-c7c2-43d9-9a9b-e2ac320e3f4e",
+          "node_type": "product"
+        },
+        {
+          "name": "Post Mount Gate Set",
+          "id": "c476be34-9fc5-48c3-ba34-0a3a8a63e30a",
+          "node_type": "product"
+        },
+        {
+          "name": "Concrete (60 lb bag)",
+          "id": "6f624ff8-1072-42cb-b2a2-7d1489df2258",
+          "node_type": "product"
+        },
+        {
+          "name": "Nails 2\"",
+          "id": "2c2f99f6-6e20-43ef-833b-98a2b5ffdf4b",
+          "node_type": "product"
+        },
+        {
+          "name": "Labor - Wood SG",
+          "id": "81ede76f-891b-450f-8168-4e7ee16ef419",
+          "node_type": "product"
+        }
+      ]
+    }
+  ]
+}

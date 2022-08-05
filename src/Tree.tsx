@@ -1,45 +1,15 @@
 import ReactDOM from "react-dom";
 import G6 from "@antv/g6";
-import { useEffect, useRef } from "react";
-import data from "./data/bundles.json";
-// const data = {
-//   isRoot: true,
-//   id: "root",
-//   name: "root",
-//   children: [
-//     {
-//       id: "1",
-//       name: "bundle1",
-//       options: ["a", "b", "c"],
-//       children: [
-//         { id: "4", name: "bundle4" },
-//         { id: "5", name: "bundle4" },
-//       ],
-//     },
-//     {
-//       id: "2",
-//       name: "bundle2",
-//       children: [
-//         { id: "6", name: "bundle6" },
-//         { id: "7", name: "bundle7" },
-//       ],
-//     },
-//     {
-//       id: "3",
-//       name: "bundle3",
-//       children: [],
-//     },
-//   ],
-// };
+import { useEffect, useRef, useState } from "react";
 
-export default function Tree() {
+export default function Tree({ data }) {
   const node = useRef<HTMLDivElement | null>(null);
 
-  let graph = null;
+  const graph = useRef(null);
   useEffect(() => {
-    if (graph) {
-      return;
-    }
+    // if (graph) {
+    //   return;
+    // }
     const tooltip = new G6.Tooltip({
       offsetX: 10,
       offsetY: 10,
@@ -70,7 +40,7 @@ export default function Tree() {
     const container = node.current!;
     const width = container.scrollWidth;
     const height = container.scrollHeight;
-    graph = new G6.TreeGraph({
+    graph.current = new G6.TreeGraph({
       container: node.current!,
       width,
       height: 2000,
@@ -114,7 +84,7 @@ export default function Tree() {
       },
     });
 
-    graph.node(function (node) {
+    graph.current.node(function (node) {
       const color_map = {
         product: "#3991f1",
         bundle: "#4af2a1",
@@ -149,18 +119,21 @@ export default function Tree() {
     //   };
     // });
 
-    graph.data(data);
-    graph.render();
-    graph.fitCenter();
+    graph.current.data(data);
+    graph.current.render();
+    graph.current.fitCenter();
 
     if (typeof window !== "undefined")
       window.onresize = () => {
-        if (!graph || graph.get("destroyed")) return;
+        if (!graph || graph.current.get("destroyed")) return;
         if (!container || !container.scrollWidth || !container.scrollHeight)
           return;
         graph.changeSize(container.scrollWidth, container.scrollHeight);
       };
-  }, []);
-
-  return <div ref={node}></div>;
+  }, [data]);
+  return (
+    <div>
+      <div ref={node}></div>;
+    </div>
+  );
 }
