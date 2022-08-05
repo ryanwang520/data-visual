@@ -63,7 +63,7 @@ export default function Tree() {
         return outDiv;
       },
       shouldBegin: (e) => {
-        return e.item?.getModel().type == "option_set";
+        return e.item?.getModel().node_type == "option_set";
       },
     });
 
@@ -115,6 +115,12 @@ export default function Tree() {
     });
 
     graph.node(function (node) {
+      const color_map = {
+        product: "#3991f1",
+        bundle: "#4af2a1",
+        option_set: "#b0f566",
+      };
+      const fill = color_map[node.node_type];
       return {
         size: 16,
         anchorPoints: [
@@ -122,7 +128,7 @@ export default function Tree() {
           [1, 0.5],
         ],
         style: {
-          fill: "#C6E5FF",
+          fill: fill || "#C6E5FF",
           stroke: "#5B8FF9",
         },
         label: node.name,
