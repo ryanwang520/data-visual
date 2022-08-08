@@ -12,17 +12,68 @@ const datas = {
 
 function App() {
   const [company, setCompany] = useState(companies[0]);
-  return (
-    <div>
-      <select value={company} onChange={(e) => setCompany(e.target.value)}>
-        {companies.map((c) => (
-          <option key={c} value={c}>
-            {c}
-          </option>
-        ))}
-      </select>
+  const [page, setPage] = useState(1);
+  const [pageSize, setPageSize] = useState(5);
+  const nodes = datas[company].children;
+  console.log(nodes.length);
 
-      <Tree key={company} data={datas[company]} />
+  const data = {
+    isRoot: true,
+    id: "root",
+    name: "",
+    children: nodes.slice((page - 1) * pageSize, page * pageSize),
+  };
+
+  return (
+    <div className="px-4">
+      <div className="py-4 space-x-8 flex">
+        <select value={company} onChange={(e) => setCompany(e.target.value)}>
+          {companies.map((c) => (
+            <option key={c} value={c}>
+              {c}
+            </option>
+          ))}
+        </select>
+        <div className="flex space-x-4 items-center">
+          <button
+            className="btn"
+            onClick={() => setPage((p) => p - 1)}
+            disabled={page <= 1}
+          >
+            Prev
+          </button>
+          <div>Page {page}</div>
+          <button
+            className="btn"
+            onClick={() => setPage((p) => p + 1)}
+            disabled={page >= nodes.length / pageSize}
+          >
+            Next
+          </button>
+        </div>
+        <label htmlFor="pageSizeSelector">Page size</label>
+        <select
+          id="pageSizeSelector"
+          value={pageSize}
+          onChange={(e) => {
+            setPage(1);
+            setPageSize(+e.target.value);
+          }}
+        >
+          {[5, 10, 20, 50, 100, 200].map((c) => (
+            <option key={c} value={c}>
+              {c}
+            </option>
+          ))}
+        </select>
+      </div>
+
+      <Tree
+        name={company}
+        pageSize={pageSize}
+        key={company + String(page) + String(pageSize)}
+        data={data}
+      />
     </div>
   );
 }

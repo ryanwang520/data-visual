@@ -1,11 +1,11 @@
 import ReactDOM from "react-dom";
-import G6 from "@antv/g6";
+import G6, { TreeGraph } from "@antv/g6";
 import { useEffect, useRef, useState } from "react";
 
-export default function Tree({ data }) {
+export default function Tree({ data, name, pageSize }) {
   const node = useRef<HTMLDivElement | null>(null);
 
-  const graph = useRef(null);
+  const graph = useRef<TreeGraph>(null);
   useEffect(() => {
     // if (graph) {
     //   return;
@@ -79,7 +79,7 @@ export default function Tree({ data }) {
           return 5;
         },
         getHGap: function getHGap() {
-          return 200;
+          return 400;
         },
       },
     });
@@ -132,7 +132,19 @@ export default function Tree({ data }) {
       };
   }, [data]);
   return (
-    <div>
+    <div style={{ marginTop: "20px" }}>
+      <button
+        disabled={pageSize > 20}
+        className="btn"
+        onClick={() => {
+          graph.current?.downloadFullImage(name, "image/png", {
+            backgroundColor: "#ddd",
+            padding: [30, 15, 15, 15],
+          });
+        }}
+      >
+        export png
+      </button>
       <div ref={node}></div>;
     </div>
   );
