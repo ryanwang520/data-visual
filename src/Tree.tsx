@@ -143,7 +143,7 @@ export default function Tree({ data, name, pageSize }) {
           });
         }}
       >
-        export png
+        Export As PNG
       </button>
       <div ref={node}></div>;
     </div>

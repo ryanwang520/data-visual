@@ -51,7 +51,7 @@ function App() {
             Next
           </button>
         </div>
-        <label htmlFor="pageSizeSelector">Page size</label>
+        <label htmlFor="pageSizeSelector">Page Size</label>
         <select
           id="pageSizeSelector"
           value={pageSize}
