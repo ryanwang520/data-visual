@@ -70,16 +70,16 @@ export default function Tree({ data, name, pageSize }) {
           return d.id;
         },
         getHeight: function getHeight() {
-          return 16;
+          return 8;
         },
         getWidth: function getWidth() {
-          return 16;
+          return 8;
         },
         getVGap: function getVGap() {
-          return 5;
+          return 10;
         },
         getHGap: function getHGap() {
-          return 400;
+          return 100;
         },
       },
     });
