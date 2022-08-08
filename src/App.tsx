@@ -27,7 +27,13 @@ function App() {
   return (
     <div className="px-4">
       <div className="py-4 space-x-8 flex items-center">
-        <select value={company} onChange={(e) => setCompany(e.target.value)}>
+        <select
+          value={company}
+          onChange={(e) => {
+            setCompany(e.target.value);
+            setPage(1);
+          }}
+        >
           {companies.map((c) => (
             <option key={c} value={c}>
               {c}
