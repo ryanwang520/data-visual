@@ -87,12 +87,7 @@ function App() {
         </select>
       </div>
 
-      <Tree
-        name={company}
-        pageSize={pageSize}
-        key={company + String(page) + String(pageSize)}
-        data={data}
-      />
+      <Tree name={company} pageSize={pageSize} data={data} />
     </div>
   );
 }

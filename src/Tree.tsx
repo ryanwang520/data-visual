@@ -12,9 +12,12 @@ export default function Tree({ data, name, pageSize }: Props) {
 
   const graph = useRef<TreeGraph | null>(null);
   useEffect(() => {
-    // if (graph) {
-    //   return;
-    // }
+    if (graph.current) {
+      graph.current.changeData(data);
+      graph.current.fitCenter();
+      return;
+    }
+    debugger;
     const tooltip = new G6.Tooltip({
       offsetX: 10,
       offsetY: 10,
@@ -129,7 +132,7 @@ export default function Tree({ data, name, pageSize }: Props) {
           container.scrollHeight
         );
       };
-  }, [data]);
+  }, [data, name]);
   return (
     <div style={{ marginTop: "20px" }}>
       <button
