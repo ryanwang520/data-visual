@@ -7,6 +7,7 @@ import denco from "./data/Denco Fence.json";
 import fenceworks from "./data/3_23 Fenceworks LLC.json";
 import henderson from "./data/Henderson Fence.json";
 import fenceline from "./data/Fence_Line_Construction.json";
+import sourthern from "./data/Southern Exteriors Fence Co.json";
 
 const datas = {
   "Hardy Fence": hardy,
@@ -15,6 +16,7 @@ const datas = {
   "3/23 Fenceworks LLC": fenceworks,
   "Henderson Fence": henderson,
   "Fence Line Construction": fenceline,
+  "Southern Exteriors Fence Co": sourthern,
 };
 const companies = Object.keys(datas);
 
