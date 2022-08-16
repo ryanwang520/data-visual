@@ -3,12 +3,20 @@ import reactLogo from "./assets/react.svg";
 import Tree from "./Tree";
 import hardy from "./data/Hardy Fence.json";
 import ozark from "./data/Ozark Fence.json";
+import denco from "./data/Denco Fence.json";
+import fenceworks from "./data/3_23 Fenceworks LLC.json";
+import henderson from "./data/Henderson Fence.json";
+import fenceline from "./data/Fence_Line_Construction.json";
 
-const companies = ["Hardy Fence", "Ozark Fence"];
 const datas = {
   "Hardy Fence": hardy,
   "Ozark Fence": ozark,
+  "Denco Fence": denco,
+  "3/23 Fenceworks LLC": fenceworks,
+  "Henderson Fence": henderson,
+  "Fence Line Construction": fenceline,
 };
+const companies = Object.keys(datas);
 
 function App() {
   const [company, setCompany] = useState(companies[0]);
