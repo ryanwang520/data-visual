@@ -23,7 +23,7 @@ const companies = Object.keys(datas);
 function App() {
   const [company, setCompany] = useState(companies[0]);
   const [page, setPage] = useState(1);
-  const [pageSize, setPageSize] = useState(5);
+  const [pageSize, setPageSize] = useState(10);
   const nodes = datas[company].children;
   console.log(nodes.length);
 

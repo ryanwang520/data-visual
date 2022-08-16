@@ -1,1 +1,3741 @@
-{"isRoot": true, "id": "root", "name": "", "children": [{"id": "f0d029eb91c54afeb0aab378037aa0ef", "name": "4' residential black coated chain link", "node_type": "bundle", "children": [{"id": "0e2470b5e8e14b548d4f21e7d0a87be6", "name": "Top Rail 1-3/8\" x 21' black coated", "node_type": "product"}]}, {"id": "b08d1439ede94039802ea3ebc9794a04", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "72aff0125bb640e89e3f66317e2255d0", "name": "Post- Terminal 2-1/2\" x 6' black coated", "node_type": "product"}]}, {"id": "01a6d95cd4204b54a1bdc02d7d716f18", "name": "line post", "node_type": "bundle", "children": [{"id": "b9d33369988c456985c24dcc8813b06f", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "1c42344f19f34417bc684cb18aae40f9", "name": "termination", "node_type": "bundle", "children": [{"id": "96f93380a5604eb4a1b475f50c410ffe", "name": "Tension Bar 4' black coated", "node_type": "product"}]}, {"id": "87127c98d0514e59ac53c11745c0eb21", "name": "Line Post", "node_type": "bundle", "children": [{"id": "7496345eb98b4835a7a7cc8cc258b776", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "6910eb48cd324ebe810001341fc05dd1", "name": "4' residential galvanized chainlink", "node_type": "bundle", "children": [{"id": "1deba98535524596a3484a65d9f94880", "name": "Top Rail 1-3/8\" x 21' ( 31.08 per stick) galvanized", "node_type": "product"}]}, {"id": "04cc5542f65c4403b363af0b55cfceca", "name": "Termination", "node_type": "bundle", "children": [{"id": "aa5bc79e8f3249da90a59bfb49804f7b", "name": "Tension Bar 4' galvanized", "node_type": "product"}]}, {"id": "e758a6b488d0467e98fef1ce0ab6f8ab", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "29f155804e1147feb3195c69da4359a5", "name": "Post- Terminal 2-1/2\" x 6' galvanized", "node_type": "product"}]}, {"id": "e8212b5746e746ce82a43b3a18077b64", "name": "5' residential galvanized chain link", "node_type": "bundle", "children": [{"id": "3448b0e06b86484688a4af09c036890e", "name": "Top Rail 1-3/8\" x 21' ( 31.08 per stick) galvanized", "node_type": "product"}]}, {"id": "ffaab32ecd604905a516223b5ecf1d8b", "name": "line post", "node_type": "bundle", "children": [{"id": "52a67de003554191834e952c75213146", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "44bcdbad9fbb41db8de4ce1a6c1d59ff", "name": "termination", "node_type": "bundle", "children": [{"id": "8dbcc6bc0cdd47c582e80a5c23318217", "name": "Tension Bar 5' galvanized", "node_type": "product"}]}, {"id": "63ed01d8ff6b459eb46a69bc19373725", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "af0291f7921a46389267a741084c5757", "name": "Post- Terminal 2-1/2\" x 7' galvanized", "node_type": "product"}]}, {"id": "b8bbb54eb7194e588bd78a339dd3436e", "name": "5' residential black coated chainlink", "node_type": "bundle", "children": [{"id": "36cb23f6f0e6463c993b2fab053ea5a0", "name": "Top Rail 1-3/8\" x 21' black coated", "node_type": "product"}]}, {"id": "2c02b4a167044b6facecf3ed8cba2cef", "name": "line post", "node_type": "bundle", "children": [{"id": "ef5144913ccb48c19f4331ee6c3cb70b", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "e3465d0dfc574c3e85e2f0ace03e6bc4", "name": "termination", "node_type": "bundle", "children": [{"id": "7c29a40c0a7746cbba745e1910d14778", "name": "Tension Bar 5' black coated", "node_type": "product"}]}, {"id": "d31aea02778348f5823a8f1608ddc0a7", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "1e40ea4576e044018ee4e60e94708b22", "name": "Post- Terminal 2-1/2\" x 7' black coated", "node_type": "product"}]}, {"id": "8d5cb2b373b34005aaf79bec4ae4258c", "name": "6' residential galvanized chainlink", "node_type": "bundle", "children": [{"id": "fd91b85aee884265a7154fb126ae2616", "name": "Top Rail 1-3/8\" x 21' ( 31.08 per stick) galvanized", "node_type": "product"}]}, {"id": "d1939c1552cb4f5188b5313399e6fd1c", "name": "line post", "node_type": "bundle", "children": [{"id": "ae69345322c04ac09f989525cc08d31e", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "596555981c464b6b8c1d0e952a3f2e3a", "name": "termination", "node_type": "bundle", "children": [{"id": "283700f970964ff2ac2cdceaa7efd65a", "name": "Tension Bar 6' galvanized", "node_type": "product"}]}, {"id": "2ce1182bdaf044fb9fdaeb5fa05ab637", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "54fd3389702448be8622173c8819aa92", "name": "Post- Terminal 2-1/2\" x 8' x .055 galvanized", "node_type": "product"}]}, {"id": "8434eb0bd80a400293cac625d10b2ca9", "name": "6' residential black coated chainlink", "node_type": "bundle", "children": [{"id": "fd34bc89f81741b1a1ed5dc0000605d8", "name": "Top Rail 1-3/8\" x 21' black coated", "node_type": "product"}]}, {"id": "949898887b7f4797a8433b7d51726123", "name": "line post", "node_type": "bundle", "children": [{"id": "ce4efa5e54784024b6c9b7ba5fb4584a", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "4af9c9fdacbf477b9a0626c91fb41eac", "name": "termination", "node_type": "bundle", "children": [{"id": "96f147e013d14409a9246f3241c805fa", "name": "Tension Bar 6' black coated", "node_type": "product"}]}, {"id": "f6c159a336cf488a8589337d73c1e393", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "f3202c7f53904811b114610ac2eef64b", "name": "Post- Terminal 2-1/2\" x 8' black coated", "node_type": "product"}]}, {"id": "44e8df4abba34fba8617e5ab46c7a4b8", "name": "line post", "node_type": "bundle", "children": [{"id": "1908fbe1b016496d995af16358476e4c", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "9c1db1f8450f48b49f24d59b07e1719c", "name": "6' light commercial galvanized chainlink", "node_type": "bundle", "children": [{"id": "ef8f41b7f729429e84498b024deb063b", "name": "Top Rail 1-5/8\" x 21' SS20 galvanized", "node_type": "product"}]}, {"id": "bc9ab32cf44642ee8f41a489ce1ec292", "name": "termination", "node_type": "bundle", "children": [{"id": "ae07bd430171458da833a330adff5ed0", "name": "Tension Bar 6' galvanized", "node_type": "product"}]}, {"id": "d1f9edea2fc14a1a8e6d213f56a27f0b", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "b48c3494450944608d1dddb15134155d", "name": "Post- Terminal 2-1/2\" x 8' SS20 galvanized", "node_type": "product"}]}, {"id": "b65cd51718fb4df7a2a095f03409584a", "name": "6' light commercial galvanized chainlink with barbwire", "node_type": "bundle", "children": [{"id": "6ee67f34989e4603b86a73ba9a761ba4", "name": "Top Rail 1-5/8\" x 21' SS20 galvanized", "node_type": "product"}]}, {"id": "b27be79dcf7c444a94887a388b946c83", "name": "line post", "node_type": "bundle", "children": [{"id": "fadfcf3ddac044c08c124a65306befaf", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "77d3c1d75e8d4dfd9acd0623edd8085a", "name": "termination", "node_type": "bundle", "children": [{"id": "58404988748b498085c77a9ee1888a1f", "name": "Tension Bar 6' galvanized", "node_type": "product"}]}, {"id": "f9358dcb6db545af8cdcd2d49980b4fd", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "4192abe3feda456bba1bed0ef0c23081", "name": "Post- Terminal 2-1/2\" x 11' SS40 galvanized", "node_type": "product"}]}, {"id": "43c7f03b069a425d88996dfe63bd64ad", "name": "line post", "node_type": "bundle", "children": [{"id": "8466486adf0c4e1f8ff8a129a432d9f6", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "077fef83580e4684b2739c9ccde2af28", "name": "6' medium commercial galvanized chainlink without barbwire", "node_type": "bundle", "children": [{"id": "a29940e01eb049d3a6d694cc74659cca", "name": "Top Rail 1-5/8\" x 21' SS20 galvanized", "node_type": "product"}]}, {"id": "3ae23375af1c4ab98659a44fcdc46f13", "name": "termination", "node_type": "bundle", "children": [{"id": "947a5edfaba146acbc1d5c7ac9a6045a", "name": "Tension Bar 6' galvanized", "node_type": "product"}]}, {"id": "3b0851941ab7466daba0d93d82cdd8c9", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "7bc353ad21ab401ea5b4b68224d84cf7", "name": "Post- Terminal 2-1/2\" x 9' SS40 galvanized", "node_type": "product"}]}, {"id": "3704e61d49894df88896969164d8e502", "name": "6' medium commercial galvanized chainlink with barbwire", "node_type": "bundle", "children": [{"id": "806b2288e1534c87bb0a8c034d842fb9", "name": "Top Rail 1-5/8\" x 21' SS20 galvanized", "node_type": "product"}]}, {"id": "9722355cd8a2484aaaee1581803b1c58", "name": "line posts", "node_type": "bundle", "children": [{"id": "5e62bc6b1c164a1c84c227a1b23b9267", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "7579295eef134fceaa698fe787f865e5", "name": "termination", "node_type": "bundle", "children": [{"id": "639b25ab829d4e41bb3387060c3c74d3", "name": "Tension Bar 6' galvanized", "node_type": "product"}]}, {"id": "66c13a9f8d4b4b198d46054d3dd2bf77", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "414ae1b8bf164a709d24f962fdd09745", "name": "Post- Terminal 2-1/2\" x 11' SS40 galvanized", "node_type": "product"}]}, {"id": "87d6469394a645128230c90bfc4d70b6", "name": "line post", "node_type": "bundle", "children": [{"id": "e9f7b315166342658fdf4bc2e40acade", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "49dbb6a391a141a1944cd9b61590c811", "name": "6' full commercial galvanized chainlink without barbwire", "node_type": "bundle", "children": [{"id": "431d5394d4a4431eafc925dcdb72d427", "name": "Top Rail 1-5/8\" x 21' SS40 galvanized", "node_type": "product"}]}, {"id": "5ab40ed504f1481bba148a4d3ee8c787", "name": "termination", "node_type": "bundle", "children": [{"id": "bf261030dac04b2fb5c4954b1d8c2e07", "name": "Tension Bar 6' galvanized", "node_type": "product"}]}, {"id": "5610196004a046c9913a6d1956534f3d", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "c29cb15d042645a68d335c916c6fa8cd", "name": "Post- Terminal 2-1/2\" x 9' SS40 galvanized", "node_type": "product"}]}, {"id": "977896214d8d4f0ca0be1f4b7d89ed6f", "name": "line  post", "node_type": "bundle", "children": [{"id": "9a4370be8aba4d769c79d76dc6f0c684", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "fb0fbec9a7c8411685729bcaa43267ad", "name": "6' full commercial galvanized chainlink with barbwire", "node_type": "bundle", "children": [{"id": "31eb0d0ad0a149c5aa5f7c367cfec0b3", "name": "Top Rail 1-5/8\" x 21' SS40 galvanized", "node_type": "product"}]}, {"id": "d02af48f67e6488888781bb4e6ac8cb0", "name": "termination", "node_type": "bundle", "children": [{"id": "8fbd238e44424a9eb933e635e3b6955e", "name": "Tension Bar 6' galvanized", "node_type": "product"}]}, {"id": "6be8dd38085c4bcba6503710e7aff12b", "name": "corner/end post", "node_type": "bundle", "children": [{"id": "0c6626da5f174419b1721b13f73d8e3b", "name": "Post- Terminal 2-1/2\" x 11' SS40 galvanized", "node_type": "product"}]}, {"id": "60642ce5728245f2a097d156eaf7d45d", "name": "6' privacy with 10' panels", "node_type": "bundle", "children": [{"id": "7199f77cdbcd40e7a638ad218269ebc6", "name": "labor - 6' stkd", "node_type": "product"}]}, {"id": "4d3c4fbd510448678eb8a26bab86cf5f", "name": "6' shadow box with 10' panels and 6 x 6 posts", "node_type": "bundle", "children": [{"id": "ab610984fc2a4e5a94ee851fde7d77d5", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "a252ba25d0b845a8bf195a4cf37c733d", "name": "6' shadow box with 10' panels", "node_type": "bundle", "children": [{"id": "e1fb779280d046068d4b79ba7864d2f0", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "8d39bcff52d94f979330ae4654b2cf9c", "name": "6' shadow box with 8' panels", "node_type": "bundle", "children": [{"id": "7f8c9b6e9c854cd3b9207e46b54925ce", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "e23f1091bcbd4e0cb62a2256d9f9d23c", "name": "6' shadow box with 8' panels, top cap and trim", "node_type": "bundle", "children": [{"id": "b964f68fb522484d855800d9aaa63ebb", "name": "Screws", "node_type": "product"}]}, {"id": "b4be4c9e1cd9441eb75923fa51a39749", "name": "6' shadow box with 8' panels, 6 x 6 posts,  top cap and trim", "node_type": "bundle", "children": [{"id": "1f0ef5bc1c0744b59ec1a30efc85b190", "name": "Screws", "node_type": "product"}]}, {"id": "c1568dc142074639bcea4c439d419ea8", "name": "6' shadow box with 10' panels, top cap and trim", "node_type": "bundle", "children": [{"id": "11924330414449a29ef9a1ad2d0eb5ea", "name": "Screws", "node_type": "product"}]}, {"id": "68cd4f1e61ac45b0bf19e74396d9fddc", "name": "6' shadow box with 10' panels, 6 x 6 posts, top cap and trim", "node_type": "bundle", "children": [{"id": "3800880ddbb444ef9bc66ed350ff7d30", "name": "Screws", "node_type": "product"}]}, {"id": "f588bbf322554c02a337b628135f1f49", "name": "6' good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 6 top and bottom trim", "node_type": "bundle", "children": [{"id": "b5ca32c40b8e4d8693d9f8994b331b62", "name": "Screws", "node_type": "product"}]}, {"id": "58f94a9d23064a64971adea51913267e", "name": "6' board on board good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 6 top and bottom trim", "node_type": "bundle", "children": [{"id": "e823de75906547fab22f2fd48d5a3f35", "name": "Screws", "node_type": "product"}]}, {"id": "be2f3091cbc24d47ba160c0c48a96ee3", "name": "6' privacy with 10' panels and metal post", "node_type": "bundle", "children": [{"id": "fc2e0e11835f4b8daab75638d188c972", "name": "labor - 6' stkd", "node_type": "product"}]}, {"id": "d22354263a6944889d0b76c3eed932c5", "name": "6' privacy with 10' panels with top cap and trim", "node_type": "bundle", "children": [{"id": "74014cd2d0cb4d358f38d998e6dc62c6", "name": "Screws", "node_type": "product"}]}, {"id": "8ec498e2d64040d6bce0e4bcdaca3e55", "name": "6' privacy with 8' panels", "node_type": "bundle", "children": [{"id": "583fdb623d4342f5b919066f57d65e52", "name": "labor - 6' stkd", "node_type": "product"}]}, {"id": "108eee5f7c134ef297a69e0aba299f67", "name": "6' privacy with 8' panels and metal post", "node_type": "bundle", "children": [{"id": "6dedc016999b485dbe22bc3968dc1e69", "name": "labor - 6' stkd", "node_type": "product"}]}, {"id": "69a2ec6f6cdd4908a888fe047e0025c7", "name": "6' privacy with 10' panels, top cap and trim with bottom trim", "node_type": "bundle", "children": [{"id": "7338ade272bc4d52beb50bb8d8ad6439", "name": "Screws", "node_type": "product"}]}, {"id": "01ccd29931b9400d981331627836275b", "name": "8' good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 6 top and bottom trim", "node_type": "bundle", "children": [{"id": "833c7561c9c844e2a1d92a1e997bad75", "name": "Screws", "node_type": "product"}]}, {"id": "71ec7bac9e3f4542a4f72c3d0b92b8bd", "name": "8' good neighbor with 8' sections and 6 x 6 posts", "node_type": "bundle", "children": [{"id": "c9a256c6ed2b45a48fb01bbebd619c05", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "b71933bca3e449b0a50ee06b40a2a8a9", "name": "6' board on board with 10' panels and 6 x 6 posts", "node_type": "bundle", "children": [{"id": "4932e87c1edf44309dd05f03ca6772b8", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "532d1bcaff6b429ea450e28cfef6cb5a", "name": "6' board on board with 8' panels and 6 x 6 posts", "node_type": "bundle", "children": [{"id": "4b90d052f75b4d7180fd8e70681dc32f", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "efada9fea47e4ae4b8d761fb5eac3277", "name": "6' board on board with 8' panels, 6 x 6 posts,  top cap and trim", "node_type": "bundle", "children": [{"id": "832e49dbb4454cd59258fc26fc186e50", "name": "Screws", "node_type": "product"}]}, {"id": "cad212fe4f594464bc0697e1f49c479d", "name": "6' good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 4 top and bottom trim", "node_type": "bundle", "children": [{"id": "1329c8420e374144a0f7f8a13e45b3f2", "name": "Screws", "node_type": "product"}]}, {"id": "f0512e6b109b4120a8306667438eb4dc", "name": "6' good neighbor with 8' sections and 6 x 6 posts", "node_type": "bundle", "children": [{"id": "8ff7d6c10dea463080dc61a0f3975e9e", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "281b833803c141749ba8265af9c5abbc", "name": "6' shadow box with 8' panels and 6 x 6 posts", "node_type": "bundle", "children": [{"id": "f8f57f606bf646c0994936f69f4bc398", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "5426d1cb1745402aac0ae04602be4db8", "name": "6' board on board with 10' panels, top cap and trim", "node_type": "bundle", "children": [{"id": "6da30ad429f244d2b6f00e47df3c9f7c", "name": "Screws", "node_type": "product"}]}, {"id": "f46fd32d6a7c4da48743b70635fab341", "name": "6' board on board with 8' panels, top cap and trim", "node_type": "bundle", "children": [{"id": "df3c182a8bf442629c31f94a0f589311", "name": "Screws", "node_type": "product"}]}, {"id": "f4f0052849624d38819d6c384cdfdc74", "name": "8' privacy with 10' panels", "node_type": "bundle", "children": [{"id": "822a29ba728e47e98e98e937f0d802a8", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "e6c841ebc3554e36b9cf5df8ad5e2269", "name": "8' privacy with 8' panels", "node_type": "bundle", "children": [{"id": "85b7a1b276884045b5423d6aa3d0f1ac", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "a92ee4f78f53426d849f98fbd2e48699", "name": "4' privacy with 8' panels", "node_type": "bundle", "children": [{"id": "eb2fbfd08f5a427f87627d280e56b8fb", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "9b72c09c88304e368215d17385f2305a", "name": "6' board on board with 8' panels", "node_type": "bundle", "children": [{"id": "41f56a6204ed45b8b3850c22247fcbf2", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "60a08ccb4e8f4345a81aa43cc4f4d555", "name": "4' wood picket with 8' panels", "node_type": "bundle", "children": [{"id": "4794ee623283415caacc200f58311f83", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "6baf25dbba004917bb7398a76dde415e", "name": "6' board on board with 10' panels", "node_type": "bundle", "children": [{"id": "8a180ee441294169b616939e9029342b", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "c8764a4a23f84e869aafde93188c7611", "name": "6' privacy with 10' panels and 6 x 6 posts", "node_type": "bundle", "children": [{"id": "abdac8557267411f9c20217c3ac598e9", "name": "Remove soil from yard option", "node_type": "product"}]}, {"id": "12c72aa5aacb487c92f6c225b722acae", "name": "6' board on board with 10' panels, 6 x 6 posts, top cap and trim", "node_type": "bundle", "children": [{"id": "03df6dce4aa2444abbe8c376094e255b", "name": "Screws", "node_type": "product"}]}, {"id": "783be126f6264288bc6251ea5808d7d2", "name": "Aluminum", "node_type": "bundle", "children": [{"id": "0928d74540744b8db71a54d0fbe2f82d", "name": "Swivel bracket", "node_type": "product"}]}]}
+{
+  "isRoot": true,
+  "id": "root",
+  "name": "",
+  "children": [
+    {
+      "id": "2e13ab04650649bd9153f3e7b43d20e4",
+      "name": "4' residential black coated chain link",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "460b7850e6d84f52885fbb6340c2e4be",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "8a02052125834bb2a1608a51cc107f1a",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "61fd6339703d4196a84fea635fb33793",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "813cd858da7749039d96a0dbaa9f1b9e",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "5b33d4cb0b1c44ab8fae7e5d293b4b3e",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "96e8a19b13f5459bbb5517e00f783540",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "f1b79ce559934fa990b903ee672e73c7",
+          "name": "Alum Ties 9 Ga 8-1/4\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "452277c3bdd74a779949d71ebfc3545b",
+          "name": "Barbless Barbwire 14 Ga (1320') black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "8861a0d056d342ecb9902a2ea0f812a4",
+          "name": "Fabric- 48' x 8 (11core) (50' roll) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "f3fd3938553b451f853f422ecf8d166f",
+          "name": "Hog Ring 9 ga (140) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "2f3f542db5c845b5873d53121a04894e",
+          "name": "Labor - RES C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "46ecbeba130a489ebfb4007e004f5207",
+          "name": "Top Rail 1-3/8\" x 21' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "47bb2317e2ad4ca281de9a1f13b1255c",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "057b01ebae6546dbb170c199a3f051fe",
+          "name": "Cap- Blank 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "5d2082edd9004115b5769a80e35cbd7f",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "6a2a6a1ab8a242d48c2e826a59a4fc5d",
+          "name": "Labor -  RES C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "b9bad32488f34af6b8734c9a18941da9",
+          "name": "Post- Terminal 2-1/2\" x 6' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "3d7bc0466abf46d9912b908051ae5597",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "bf88e3923c6248d099d97920cd6daf25",
+          "name": "Alum ties 9 Ga 6-1/2\"  black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "c3cdc2aefebf41f08fd6552f74a537b7",
+          "name": "Cap- Loop 1-5/8\" x 1-3/8\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "dab7857575904b8787777475ef360057",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "d8fd9e1f782f416586d9184d684f4623",
+          "name": "Post- Line 1-5/8\" x 6' black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "ea4c4049df0d4c098089e407697e85a1",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "500f17dff638452a8a0e702da64fc3e6",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "c5682523f1a547eb8cc8828a531319de",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "668262ec649544d2b82d81b26b09308c",
+          "name": "Brace Band- 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "39ba3f0f3ba94d5dbf2aad505b86b4ee",
+          "name": "Labor - RES C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "ce52c3d5cf3447d0a9c487fa9b2a0638",
+          "name": "Rail End Cup 1-3/8\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "b1662a7e2e4148ab8542d636d49aba79",
+          "name": "Tension Band- 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "608a26d5a32a4ac4bb91070b6c7147aa",
+          "name": "Tension Bar 4' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "07aeb2a4e3984478bb8c7a648b94f16d",
+      "name": "Line Post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "ec51020526f4454298a425b114cfa50d",
+          "name": "Alum ties 11 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "7ab3a47893d44cf3b43fd5daac3d9a4c",
+          "name": "Cap- Loop 1-5/8\" x 1-3/8\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "e6ded16463074b56beb410f5aeac1a3d",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "4a4dc43ed06c4145bba45e0c834fcccc",
+          "name": "Post- Line 1-5/8\" x 6' galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "69a0fbb52ee24dc2b299b9cd04b6f009",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "1dce5c20f9564fbda6d0c5323e77cb71",
+      "name": "4' residential galvanized chainlink",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "54424fd9e97b48d0a71dafd58dfd2964",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "578f20cc78884e0a90e2c3921649be47",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "f1dffe5b769b49a6a725bed5e434841a",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "4824f3b17abe46db8d6525d2ef67ca7f",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "a89e6747d8d64de9ace04bc5a783a3bf",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "2a666f060a094435abfe7b32b663e682",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "551082a139a94d9183ebbedbc338a3f6",
+          "name": "Alum Ties 9 Ga 8-1/4\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "bef535e41b094f5ba15f16f4ea5080a2",
+          "name": "Barbless Barbwire 14 Ga (1320') galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "4c1e9d33f1a54870b2232e50d3749de4",
+          "name": "Fabric- 48' x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "bf44f3f594634a7591d4e29f59ae3b5c",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "62ee5aa47fc442a69ff3a277a5595d2d",
+          "name": "Labor - RES C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "a845c73037db405f9a434e5d42b70572",
+          "name": "Top Rail 1-3/8\" x 21' ( 31.08 per stick) galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "0509e46f78444b66aca304d7a555cd11",
+      "name": "Termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "02500014a32f4a9e9dbd4bdf1ad2cac4",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "7cdce3a598194131b2b717702baab53a",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "a9df8653332247d08e7e8f582e05abc5",
+          "name": "Labor - RES C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "c3adabd6d85746079f3bb50b4d6a8140",
+          "name": "Rail End Cup 1-3/8\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "b893e35877504a7faec9797607f4656b",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "5515fdfc3dad49149ebe033cf31b717a",
+          "name": "Tension Bar 4' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "03293dda751c48eb87e698b7501cc28f",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "26938a586a2d434894ffff70b3ac1537",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "44f1d610449744d8ba1d1fd868b619dc",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "233326daa23a4e6f95b2c04595924443",
+          "name": "Labor -  RES C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "0642494f65f649a1a2d58a62b190b9ff",
+          "name": "Post- Terminal 2-1/2\" x 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "970dd51e1d384b78858323bf8dea070a",
+      "name": "5' residential galvanized chain link",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "6a3bb4bded674d82a35e9664d8cbb23d",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "e8b7f26f024c4c878c5bc52978e70763",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "52407cb77bd54a06ba22fbdfabfd96a8",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "45db2e8afdf44c4cae554a59f5c9a2de",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "6558184095b4445baa6996435b5d5020",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "52a08d10df504506ab5f02d28a3535ff",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "b834a3aad71b4ddfacd1bba6044afe1b",
+          "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "20bd4ed7beaa44caba4c219fa9da73da",
+          "name": "Barbless Barbwire 14 Ga (1320') galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "37947d37677a4e269d5e1283fdf2aff4",
+          "name": "Fabric- 60\" x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "7ac46a72e11c45b4b8dab8804468424a",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "065fe55803a9494ba7120ca20b8b758b",
+          "name": "Labor - RES C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "2164ddbc6a5e413daffff2444a8a9a4d",
+          "name": "Top Rail 1-3/8\" x 21' ( 31.08 per stick) galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "2c78c892f6f24b0c83db7aef4f9285b2",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "772eaa1af0c44277b20f971cdbbf597f",
+          "name": "Alum ties 11 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "3ff6088586ed487c8288c245b0226e07",
+          "name": "Cap- Loop 1-5/8\" x 1-3/8\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "ed452388c1a0497ba65a3028464a5c8c",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "8d5c017f4c2a4233be4b479882dd90c9",
+          "name": "Post- Line 1-5/8\" x 7' galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "d7ce20adebf84637a3ee7e3b374df5ce",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "fd97a36ef976494b8d7ae35e0de3b318",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "72f34e2b2b3641ee9ae078955b15fc37",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "24e46bb0c60441bda80bf3c2097a6e1c",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "c387f1a8155549b0ba5252b18b71dbce",
+          "name": "Labor - RES C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "7a826cb4b0f64f4a98454f417b58d6f4",
+          "name": "Rail End Cup 1-3/8\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "9a079034211b4c6090d016e3a82da346",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "188bdb043dc9485c825617cffce1c42f",
+          "name": "Tension Bar 5' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "f6ef519c56044698b2425a100fa0a64b",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "0cfca72fe4cc4bf496306619c08737b3",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6de2c0dd5ac247099c6e5b6a766d2b7f",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "fcfdc5c0a2bb46069302a42cba120f8f",
+          "name": "Labor -  RES C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "f05baa64f0d3492b8cfb2581bfb1d12f",
+          "name": "Post- Terminal 2-1/2\" x 7' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "26cee34bb11748f3aff226e8a441e38e",
+      "name": "5' residential black coated chainlink",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "22ec38513fed409395f563915fcf6876",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "bdbdf8165dc148e38b122294aa04a841",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "fcbfdac313824de6941e10a37ff9d790",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "155bf491d9404298a626ee3a8256ec1c",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "69d4911ed23d40d1917a88cbfd486b62",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "489d0ad2cb0440aca22c9c012a16e974",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "d576f6fea08940d58aa18bd7e17d1238",
+          "name": "Alum ties 11 Ga 6-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "42a5c296277f4a879d0234fa94f09b3c",
+          "name": "Barbless Barbwire 14 Ga (1320') black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "43a899134bb94d649d553ff1282c04b9",
+          "name": "Fabric- 60\" x 11-1/2 GA (50' roll) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "e529efcb18dc4a7eb8ae2e4f90af0a7f",
+          "name": "Hog Ring 9 ga (140) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "628fe123746e41eabf2f1a8818b6db0b",
+          "name": "Labor - RES C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "06db63b339cc43569a8a5aa915d25570",
+          "name": "Top Rail 1-3/8\" x 21' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "5655710b9a3c46d9b46e84b6b8218fa9",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "573e1249cf1d4486b6ae41adebeff433",
+          "name": "Alum ties 9 Ga 6-1/2\"  black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "3ff4cc24f866407880fb55800c480a41",
+          "name": "Cap- Loop 1-5/8\" x 1-3/8\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "271de925936247aa8f0b14273a31b0f7",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "70dc38039bf14c0db1ee49d3850505b3",
+          "name": "Post- Line 1-5/8\" x 7' black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "f9b9dd4f69844e2bbd7095b2650a986c",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "70651e179b7b42818dc86769b95544d3",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "a90a495748bf41408ab48684e4c25a84",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "385c7e3c21b9457bb14e183b50529fd0",
+          "name": "Brace Band- 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "0b9173a5573e4c4797ebc24bd17d60c1",
+          "name": "Labor - RES C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "c142aa800cf44138912dd83ebe3912c2",
+          "name": "Rail End Cup 1-3/8\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "e66638ea55844622af28e64f0d7e5b14",
+          "name": "Tension Band- 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "02e332493f364f09aad0f64123de6754",
+          "name": "Tension Bar 5' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "9c47d9f2992e4acdb97a3ff72e284fd9",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "a5a2217810044d0c946c67dd10dfdf8d",
+          "name": "Cap- Dome 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "f07eba7c426f4725a04d837a76b80bce",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "643e036182f4430b86407cfcd5630cfa",
+          "name": "Labor -  RES C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "7f4fb7a784f8436da05ab7be5b4ef48f",
+          "name": "Post- Terminal 2-1/2\" x 7' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "8cc28ebf01974e0cb816d7d01ca9a952",
+      "name": "6' residential galvanized chainlink",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "e86af93e3adb4edb818c2c015e80b1b1",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "70e0f4c021d74d828554c6bf95642d86",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "cf79c727419b414f8388cd46a00345a9",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "f305ffcca51e44febe65a649fe7307ed",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "56523d1ff5ef43c6871e7172dafef7bd",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "75f1964671e34fee94e3010ca644bf07",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "c6c579d912714d4799545c3cede0b6d7",
+          "name": "Alum ties 11 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "c82e5cf0cc5647ceab657cc36edde356",
+          "name": "Barbless Barbwire 14 Ga (1320') galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "a6215380bab94ba5b00be10b8bee3dcf",
+          "name": "Fabric- 72\" x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "9f50a1e54e2d416584566427ebc4a1ff",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "3ccddac8bbbd4ff7b59a26ba6ab93197",
+          "name": "Labor - RES C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "7f18a8878a9a4c438e36c3f52d38159d",
+          "name": "Top Rail 1-3/8\" x 21' ( 31.08 per stick) galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "e7b27692a2fe49ba8dd5844f30128571",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "3165be00b1aa409391238e34ff623b26",
+          "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "c83c0071fc2547968aadab77460d4da0",
+          "name": "Cap- Loop 1-5/8\" x 1-3/8\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "fc7f2a3bb5d045068ca0985958d7894f",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "7c532ceff9a448afa3295fc597de5a86",
+          "name": "Post- Line 1-5/8\" x 8' galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "63f913b10cea407cb8b14c3a85baacdc",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "5c7461d523df4b8fae57d52683911e0c",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "7fd6b5dd8f6248158231830ff6dab7b9",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "f08c4cdb6396459a816b026ef3450cbe",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "f060bbd9db1542438bb1129006ebdb0c",
+          "name": "Labor - RES C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "87cdda27adfd4a4aa130bbef15995819",
+          "name": "Rail End Cup 1-3/8\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "69719a4d1ac84843930778ad4c14ef0e",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "917b9901180d4c8198e7f58df78080f7",
+          "name": "Tension Bar 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "4bf5f2a1ea0c45c09ca734b614510cba",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "b85340d04c8845deb043907faab0450e",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "65c4d94bf20d4509b8b33e701dedce2a",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "d925c6f887d143a7b1285e7608960923",
+          "name": "Labor -  RES C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "d44048a6566546478dcfededb9621e8c",
+          "name": "Post- Terminal 2-1/2\" x 8' x .055 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "bb8f13dd4b62432392ebcf2395ba5a7e",
+      "name": "6' residential black coated chainlink",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "696c9cdbc2d14f90a292130ded667c30",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "fdbc6749b1e148068115295ebd7a2dbc",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "0c1c1695aa3e4330a5d1c2665ddaeed8",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "4a8d17fd37844007acc431f986f55780",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "d490b5dfe15d4e1d863b792cd9634513",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "33e809e0df864836acf7af8a5d95f775",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "6ed9227017054c058181fe829de462f1",
+          "name": "Alum ties 11 Ga 6-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "c17990a04f254665a3843a0ef282106c",
+          "name": "Barbless Barbwire 14 Ga (1320') black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "e49f741db73245dca80f2a43f6733d8d",
+          "name": "Fabric- 72\" x 11-1/2 GA (50' roll) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "34d7745bcac34e4b8a73831bec32ac39",
+          "name": "Hog Ring 9 ga (140) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "4797c99849064d9f96a66150c2d6005b",
+          "name": "Labor - RES C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "b05408eb51a043978049831b69d5f207",
+          "name": "Top Rail 1-3/8\" x 21' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "17dcb95cac5049b49f792572061b9324",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "01ae8cf00be84bd7a05154619605bbb9",
+          "name": "Alum ties 9 Ga 6-1/2\"  black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "7fae17d767944945a5aedfbc9376fc1d",
+          "name": "Cap- Loop 1-5/8\" x 1-3/8\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "ebb8a8c944514b77834a3582fa025543",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "33c7589beab444dcb5da0a8d059e563d",
+          "name": "Post- Line 1-5/8\" x 8' black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "93e27770006e4dff90e27b24dcbccfdb",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "77d3248d29ac440a960d44604e470cdf",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "5179bbef875745a9accb482e6736e52d",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "16d4cdffbca5487283e2b09ce9a60d4f",
+          "name": "Brace Band- 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "d373d33d20a74c2dbe6b91853c089ab9",
+          "name": "Labor - RES C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "b410678db22a45f39c0d9d94f93bf66d",
+          "name": "Rail End Cup 1-3/8\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "1d530c107dd1437c928fdd1206c80096",
+          "name": "Tension Band- 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "e2ea0ec8597243cd8f796858b36a3f1c",
+          "name": "Tension Bar 6' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "75c2b2277c3e4a0f8db960bc4358f598",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "75bd5f3ff8a542318f7996f81b0c6e45",
+          "name": "Cap- Dome 2-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "5b9ea709c9854ac2813bb14fde9129d9",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "42670efc45e149f68fe7ffff4a51c10f",
+          "name": "Labor -  RES C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "2ad89b83b6a64e859b7bbebf699f1ff6",
+          "name": "Post- Terminal 2-1/2\" x 8' black coated",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "d99822d747ab41b19a4323656f204ecc",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "30561abb18114acbba880409b3fad32c",
+          "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "643d2771070b4e229d953fee78724c26",
+          "name": "Cap- Loop 2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "fb8f75ae47e443d395ce3832fa5a6036",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "26b71d63e75c4163809efe60d74561b4",
+          "name": "Post- Line 2\" x 8' SS20 galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6eb51e22217f4da8a8b659b87af07f46",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "5377921249824738b87b651979b75646",
+      "name": "6' light commercial galvanized chainlink",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "3dcb59a2468e40d0ab4af4b40862f9bb",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "7658e4714f6d43faa4659b21eafbb4b8",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "da618c205ab641ddb9906a898b91866a",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "a4e045b4fd214678ba8438433972d3b0",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "7e3074f3edd9462f91882054a83140ac",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "85bd5c035c04469094c9ed3bf5394b66",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "97fe96c2e0e547d4b18e04cd52b3f9b2",
+          "name": "Alum Ties 9 Ga 8-1/4\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "2bad4ebd77884ec28f18976a36e55404",
+          "name": "Barbless Barbwire 14 Ga (1320') galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "c301cdadf9c94624be4eb1672cd532e5",
+          "name": "Fabric- 72\" x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "383fcda2417446838e13e3465c72b802",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "5e379a7d65734f1ebbcbf99d4865d753",
+          "name": "Labor - 6' C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "e9718135bbb84a139cd334169fc20c33",
+          "name": "Top Rail 1-5/8\" x 21' SS20 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "c7ae4a0b310645899b1ad52fdd440cd4",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "b29e3c08d23d4cd78497aeb6f082d167",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "ae022e80af1342488d437adc610dd05c",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "c8b1ca10fe7d49dbb8436ffe5b239346",
+          "name": "Labor  6' C/L termination w/barbwire",
+          "node_type": "product"
+        },
+        {
+          "id": "8c7dcf1ae9274a88891bbc2edf899683",
+          "name": "Rail End Cup 1-5/8\" (Commerical) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "46549203719e49b89b2c0d21222ebb4b",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "966e8498def24aa89dbfd5232a2fc910",
+          "name": "Tension Bar 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "cc8ce8e76aef4cf4ace4e9d135ef76e9",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "8d718128f02a4c7c9087c76c8d1838f4",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "378c16b1c26644838a0f7d9e65a09b30",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "8c7cd39d7f4946f49f54f41b23007797",
+          "name": "Labor -  6' C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "b72268e1a25045678762270bdb5987f2",
+          "name": "Post- Terminal 2-1/2\" x 8' SS20 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "8b804eb619d34cf695b211daab11b39f",
+      "name": "6' light commercial galvanized chainlink with barbwire",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "25b56b036e2c42b49892a385aacaa237",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "3d73aaa22d154e63828459d834427029",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "e7d8ad2ab9514cb895fbdb1dcd097b27",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "1768a5301e374a8697cb3ff0ec2c32bb",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "2e779a6000824d099917d78b90bab5e6",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "971ada2e43b4458590fd77dbcb50d756",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "ffff50def0a94169bd2e32afa8eaf8d2",
+          "name": "Alum Ties 9 Ga 8-1/4\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6139c4c12d9c4870be69b5a2d01b85b0",
+          "name": "Barbless Barbwire 14 Ga (1320') galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "b9f8d9bfc45e4da8a3e796d9a049d667",
+          "name": "Fabric- 72\" x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6ed2224a8c984045b411ce512467d1d7",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "81a0d9535bb34a24af7ae5079fe35c3e",
+          "name": "Labor - 6' C/L line posts/fabric/tens wire/top rail/barbwire",
+          "node_type": "product"
+        },
+        {
+          "id": "5425651ea911414ca502a76e9e88d105",
+          "name": "Labor - 6' C/L stretch",
+          "node_type": "product"
+        },
+        {
+          "id": "d1d74deaa7834c7e990cd4cde5647e38",
+          "name": "Top Rail 1-5/8\" x 21' SS20 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "7ff1ac8515fb426b8161d2edc40ef5fc",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "1d110e0bf1724881971592a44f5544de",
+          "name": "Alum ties 11 Ga 6-1/2\" black coated",
+          "node_type": "product"
+        },
+        {
+          "id": "f3700347092244cfb890cb1e8fd7564e",
+          "name": "Barb arm 2 x 1-5/8\" 16ga galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "0d647cd690d6444da8114e4388c0fa99",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "f5c49a6012f94c4fb1538303e45db79e",
+          "name": "Post- Line 2\" x 8' SS20 galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "08f964ac20304764b206ca8fe96c0ab6",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "41538b23717640a6bc05c2ccec85d4e4",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "6adc4622e79a47e385cd987905ea7281",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "5afcc3116b0b408e9cde293069f5fee6",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "67063e4727354c7abe2bdab77e54cc0c",
+          "name": "Labor - 6'  C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "3e07686b368a41f3ad28cdd0ccae4e87",
+          "name": "Labor - 6' C/L termination w/barbwire",
+          "node_type": "product"
+        },
+        {
+          "id": "e156833aeff245339b6c46ef6fd51201",
+          "name": "Rail End Cup 1-5/8\" (Commerical) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "bcee9f11c487477fb1cfc200d344823c",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "56a431233fd544b0a59afed7fbdd2633",
+          "name": "Tension Bar 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "00a3acc9ac564f879e43239acc78abe1",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "51159bd42d3c4bd8bacad7e98de29a58",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "01c1a1b35f1948148471f36901f93b96",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "1ff5c95ddafd4e75a503cfa31be94c5b",
+          "name": "Labor -  6' C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "a23145787d3940e4b02e4bf12024db72",
+          "name": "Post- Terminal 2-1/2\" x 11' SS40 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "c04ed2d270af4d20bb1b3d820f328088",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "b85b06a5814f446195cb0bb9960d28ed",
+          "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "7f18f4d6d3bd414da4a49e10a545b259",
+          "name": "Cap- Loop 2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "c5f7383b9d4949048a256532eff7a5ca",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "81857cb8c9b3402fa4255972a9e35df9",
+          "name": "Post- Line 2\" x 9' SS40 galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "53b07c5dd3dd44b391af3a459317a07f",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "161b7f3a3fba44a68ecb58a05439427c",
+      "name": "6' medium commercial galvanized chainlink without barbwire",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "098a1ba0e6fc4c388134246e1e1f7bf4",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "53ee02a36aa54a5da4b8010752cb4f35",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "5e46f05e8e374f26a8b23caa5d2b63bd",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "a48279a58151439988e5c0a94f029e31",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "eefa7630498d4ed4bf120eea7da3f5da",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "2d59c2c068ef4b5687f59babdf884e0c",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "d77b2fa25d48462b9db81ef247f4fb5a",
+          "name": "Alum Ties 9 Ga 8-1/4\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6345dffdc0f4418a92bb24ac80241374",
+          "name": "Barbless Barbwire 14 Ga (1320') galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "045928968ee2430fa9b928d4155b9d8c",
+          "name": "Fabric- 72\" x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "aa7d5fcc88e04f45bd7a44bb8a2f8449",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "9c594cd229724fa5a98f4bd4a45fde01",
+          "name": "Labor - 6' C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "af88aed348224b7ba0827b4b8a3c15fa",
+          "name": "Top Rail 1-5/8\" x 21' SS20 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "d01191a9ca584166b48b440553ffaad2",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "93278dd2058e425e9e99407520e37ff9",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "95e33941518e4ebbb422db9b299495ad",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "69f65186cf4b4398ba6a63445fdcefc9",
+          "name": "Labor - 6'  C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "962d19f91d814299a50b98078d6e2a50",
+          "name": "Rail End Cup 1-5/8\" (Commerical) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "d70d21086c1542f282b268ca59099bd5",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "fcafe4b3eb3c4ceda005aec10a8a5336",
+          "name": "Tension Bar 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "4a0aba2e686846cb8832b3780b65a788",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "7d594d082fdc4ffe8b35c80016f49341",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "8c917c276d60441fb04a869b109a423f",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "0798e6df77a94b689cc6b8b429eb94b6",
+          "name": "Labor -  6' C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "7ce298c9d4b64503bce3604a2ed1f31d",
+          "name": "Post- Terminal 2-1/2\" x 9' SS40 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "8ff65b9a4b7f4dbf92f41cff1cab89c4",
+      "name": "6' medium commercial galvanized chainlink with barbwire",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "7f96fb8386e1449d9d283769bcf18537",
+          "name": "line posts",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "558e639680174c22979e8cc4a2ffe9b2",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "c79e7d4d39f7479b8aeb36e4316c05b4",
+              "name": "Barb arm 2 x 1-5/8\" 16ga galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "bfdff1337c6f47688b8fa7aab35f2368",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "8edfe211784345ecbd14f7293fce3453",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "4271cf74fcaa4ea990e2ac3cf5ee9f66",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "7f007e70906742bfa28f1c24325d0962",
+          "name": "Alum Ties 9 Ga 8-1/4\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "5d8679466b3b4d94948188a81ce0f8d1",
+          "name": "Barbless Barbwire 14 Ga (1320') galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "9b862f6cc1094b5788906938b317ca3a",
+          "name": "Fabric- 72\" x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "f6e1e725a8364638aee4b834be593d52",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "e6719ea631c543fc8a0a8697f3e4cbd1",
+          "name": "Labor - 6' C/L line posts/fabric/tens wire/top rail/barbwire",
+          "node_type": "product"
+        },
+        {
+          "id": "ecf2b7b0a79f4619a22986a49de031ab",
+          "name": "Top Rail 1-5/8\" x 21' SS20 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "4f3e3f552a914536a749df22041fc59a",
+      "name": "line posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "2c50f6dbeaf64df59c04f1e49a1602d0",
+          "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "fe46a5edc6b14179a755de32179bcffb",
+          "name": "Barb arm 2 x 1-5/8\" 16ga galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "e7d86a767126469f989df2aa9a892912",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "22707c4b114d4ebd8c47889c3e1df385",
+          "name": "Post- Line 2\" x 9' SS40 galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "dd645817d583440583b017597ea8326b",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "406be88724824096b6fe6158758b80bc",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "94880146c63b4b56a2ff1006db71503d",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "4b9aa43c566a4645b10a8a50e3fe3d90",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "223226827ea74a818dad487de8782816",
+          "name": "Labor - 6'  C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "28a0d568e4684f44b281345fd500c62a",
+          "name": "Labor - 6' C/L termination w/barbwire",
+          "node_type": "product"
+        },
+        {
+          "id": "d7d124e1910f4a8fa6df1dd9560c7981",
+          "name": "Rail End Cup 1-5/8\" (Commerical) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "3ef55e389cde4c11bd52ea9ce831a0d1",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "b125e56884dc4ac0890befc4259c37b8",
+          "name": "Tension Bar 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "297d94e6a58d4ff4b9ff8339005184ee",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "17b07a403ce04cd8aed6624db512ab68",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "398d80da89ee41e78236cf83724fdc25",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "a36475e6e7164e0b8bd0cae41a678921",
+          "name": "Labor -  6' C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "f835562af41344ef8bc26df151e78716",
+          "name": "Post- Terminal 2-1/2\" x 11' SS40 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "a5a417ebb4a14af5b092bfa9545c740f",
+      "name": "line post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "f5bca501826c4d94ba295cbcc7e6b463",
+          "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "ca94b8b7b4a24c64acebc6c12839b33f",
+          "name": "Cap- Loop 2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6ae5a50558ac4790a88f8d16e18bd775",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "3c549ffdc77e42318b75b027ebe33e25",
+          "name": "Post- Line 2\" x 9' SS40 galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "8760893265a149e2a1be8f28d134f22d",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "9a4f194299d24916badcf5fc1969f257",
+      "name": "6' full commercial galvanized chainlink without barbwire",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "c3c066e8142448e2a6d0b1dc54b6df76",
+          "name": "line post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "5f2b572ebf34431a883bc8b4b94e536b",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "c0c14ce007374dc58a9040a50a6877a6",
+              "name": "Cap- Loop 2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "0f3ce624237c42ad9fcdddffe28cccea",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "bc1a2d818c814343b6c3aba38034b1fd",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "2530032d5f864e36871d321938a6db84",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "83572f8eecc74f9bac63845c4c24b4e1",
+          "name": "Alum Ties 9 Ga 8-1/4\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "fedfcbabd94c463cb32930913b37cf7d",
+          "name": "Coil Spring (description needed and price verified)(207.80 per roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "d5cc0e3e4ec14dd9961781dc4b324d7a",
+          "name": "Fabric- 72\" x 11-1/2 GA (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "9e991ca644c7461186b8dac204dea10e",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "7768a24c9cb14f7780f8867219ee2acc",
+          "name": "Labor - 6' C/L line posts/fabric/tens wire/top rail",
+          "node_type": "product"
+        },
+        {
+          "id": "b57071b7636a4d6a96ba824e10a76ff0",
+          "name": "Rail sleeve 1-5/8\" (Commercial) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "f5f6366ef0004b7ebac4bfe6be4a9cb8",
+          "name": "Top Rail 1-5/8\" x 21' SS40 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "95d775fe63a24b16bc30566eb17b2ba4",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "1277a451db6d4d40918ce91fa7cd7d9c",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "d083da1f64d94400a09e9abeb87bfe8e",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "ca6176e5633940759c2b0fae5f066a53",
+          "name": "Labor - 6'  C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "74e39cfaa502428db0c53db6fe5dbb83",
+          "name": "Rail End Cup 1-5/8\" (Commerical) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "fb669e4b4f3c45fdaf088fd9faa338ab",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "37ad335f5b7247bdb077efc912741a75",
+          "name": "Tension Bar 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "b8a9d3923d5b4b719fa9590ebfa7ea7c",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "c165cc81777547c6910b6a60ea793be6",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "54ad7f9660b14310bad56c41fb1c0c25",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "6d765182d4c34670a67a4a5f4a99e2d6",
+          "name": "Labor -  6' C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "8ea22f97a109481ba9d1810aead801f1",
+          "name": "Post- Terminal 2-1/2\" x 9' SS40 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "03b71b12f7524d6f8a105c62f7d874cc",
+      "name": "line  post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "6d6902fae9bd4310a07b442ccdf17430",
+          "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "867ea5287e214fe4951b0b209b8b4e57",
+          "name": "Barb arm 2 x 1-5/8\" 16ga galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6a2471a139cb41cb81214ceebd70f6d2",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "e8934f24bd0548398f5e31bd5a6efd55",
+          "name": "Post- Line 2\" x 9' SS40 galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "86b53a22c71147b29371c41c07e3d3f1",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "935070dd8beb471a9bd0337267991582",
+      "name": "6' full commercial galvanized chainlink with barbwire",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "cc19397e885349e7853e6d219f826f41",
+          "name": "line  post",
+          "node_type": "bundle",
+          "children": [
+            {
+              "id": "e61288fb14aa4007aaa531758326f0b7",
+              "name": "Alum ties 9 Ga 6-1/2\" galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "0412842393f4484ea20118f7789091b1",
+              "name": "Barb arm 2 x 1-5/8\" 16ga galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "d9ddefc413e74a5dbcf6fd635be85650",
+              "name": "Concrete 80lb",
+              "node_type": "product"
+            },
+            {
+              "id": "f5315feacda94d348556de2845e346f6",
+              "name": "Post- Line 2\" x 9' SS40 galvanized",
+              "node_type": "product"
+            },
+            {
+              "id": "7c4c687f2de448a7ba913306e5075659",
+              "name": "Remove soil from yard option",
+              "node_type": "product"
+            }
+          ]
+        },
+        {
+          "id": "3a31d3cef3d64b6eb6285e9146f9487b",
+          "name": "Alum Ties 9 Ga 8-1/4\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "ab09996415044714a51e3f258d22d873",
+          "name": "Barbwire 12.5 Ga (1500')    (125.70 per roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "f7aa797161b5471e8fb15d3af0c1855f",
+          "name": "Coil Spring (description needed and price verified)(207.80 per roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "0faaedd58c59497a90a48497fee0877d",
+          "name": "Fabric- 72\" x 9 GA KT (50' roll) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "b3c2d5a305dc41c09c28f55ce85d4ce4",
+          "name": "Hog Ring 9 ga (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "b188172614be4cc49242526908a1af10",
+          "name": "Labor - 6' C/L line posts/fabric/tens wire/top rail/barbwire",
+          "node_type": "product"
+        },
+        {
+          "id": "1b9cd293e2f246fb8077e401e28e4943",
+          "name": "Rail sleeve 1-5/8\" (Commercial) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "9d34a58125b34d06b71c238ecd74c609",
+          "name": "Top Rail 1-5/8\" x 21' SS40 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "7b40c1f4932146d98b18a913b223849a",
+      "name": "termination",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "5115422114b74d08b2e6dc6af1cac53d",
+          "name": "Bolts and Nuts- 5/16-1/4 (100) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "0c7f00f2df9d4a21b8848e83bcb8529a",
+          "name": "Brace Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "74d6311ef6a045b9b7128aa51c141dd9",
+          "name": "Labor - 6'  C/L termination",
+          "node_type": "product"
+        },
+        {
+          "id": "b95b3dc3b8e3491789e49bc24638072a",
+          "name": "Labor - 6' C/L termination w/barbwire",
+          "node_type": "product"
+        },
+        {
+          "id": "2fa2d34660204ea995bf7141cc5867d0",
+          "name": "Rail End Cup 1-5/8\" (Commerical) galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "6d3102c4d47f4218869f76d0d04426c2",
+          "name": "Tension Band- 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "816b674b967748c5a3bbf458d71c7fe7",
+          "name": "Tension Bar 6' galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "19e333a8551043328d6cd9ecb2e8ebdf",
+      "name": "corner/end post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "5cdcf0628a684a068d7e55505948058d",
+          "name": "Cap- Dome 2-1/2\" galvanized",
+          "node_type": "product"
+        },
+        {
+          "id": "2f43a510532b437090682039e606bbb8",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "1d707cc22a854fdbb430cc36805450c6",
+          "name": "Labor -  6' C/L Term post dig/set",
+          "node_type": "product"
+        },
+        {
+          "id": "4734d095ff1541c9805b6e05cfa93e05",
+          "name": "Post- Terminal 2-1/2\" x 11' SS40 galvanized",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "86aa74bbd4fc4e4fb8af4e94e360fd57",
+      "name": "6' privacy with 10' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "5ad32ef3ead74ea6adc40e74b88db077",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "bbd3f6555ed8458a9e68a1364a997bfe",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "14471aea66474c85895b32ff1ec2fc08",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "2cbe4e9a4c634b8bbb92b7539b8ce098",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "8f65abb098634f40845c07f31719ad80",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "8e7412b4831e44ab8ffb361b504066cb",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "6c40da5d48e14022a15881f167a6d6b7",
+          "name": "labor - 6' stkd",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "70f3b138d6bc4bc2bc814ea8e772dc9d",
+      "name": "6' shadow box with 10' panels and 6 x 6 posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "306b2f438f474c038c61ee6bcc0d5de4",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "8c9ce9fde2094ec2bc74b85ac417ac68",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "b4176829b7ef4567973ce35ddd7832c2",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "cf18afd65fa94a94a02638d3daa6bfd0",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "89e998789b89436581991c051d3e1676",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "e54550e425b24f6d93b554a5146aa009",
+          "name": "Labor - 6' SB w/ 6 x 6 posts",
+          "node_type": "product"
+        },
+        {
+          "id": "9c67aa7b5e994da8a56636435ad2a40d",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "72a4586af3934db79fbe57ab3d5d283f",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "73d9cfb1d74c497ea44beb98d14104e8",
+      "name": "6' shadow box with 10' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "cd008b084ab644ebbb638db51a2400bf",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "527330730ae94b61bb6b5ebbe2eac2ba",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "427c280626aa410498f3bc647a9cb232",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "60709c0dba2d4bf8adb244f9f52f0638",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "6a2f1f5e9b5341428c146b6d2effd5ca",
+          "name": "Labor - 6' SB",
+          "node_type": "product"
+        },
+        {
+          "id": "7e91ee3c1b8644ad8f6bd0d09c9b0338",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "09b44171e9614d6b93b7bc4d8a5770b6",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "bbc7cc841d724c5f8daca9672955625e",
+      "name": "6' shadow box with 8' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "6e12c281ae2646858ee10e24a3c0442e",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "83d5428b235c4c318f389458ca3793ca",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "2b383dd6a2174a1489b9afd66152c489",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "c8c2d1a668714ec8b75be5780930b4c0",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "2e7f915df1204f63b4f40b85faced1df",
+          "name": "Labor - 6' SB",
+          "node_type": "product"
+        },
+        {
+          "id": "8095c6172e7f4b7892721443205a6928",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "3a200f8becfc4972be52cd2997f8cbe2",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "281be59134e2464f884e92e7a3243647",
+      "name": "6' shadow box with 8' panels, top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "4ffb7ee353914dc3b0637617543d20fa",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "0e0dfac347004283956ce6d6227d18c4",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "75b02fcf6ab647bba8688c183d2e0042",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "e152f86504ba4429b3c90f7ad3c305d6",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "c415cf46409b44d0976584782882773e",
+          "name": "4 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "5629daaaee5144d59550d2510586b3be",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "099c5c5f9e714a969b89904f08f7edae",
+          "name": "Labor - 6' SB w/ top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "43e743e5a2614975adf4e15cec3b0341",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "d6f33fc38b614de485721ec5773aa4b8",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "f88ba559ff2a45d4bf9333ec8eb768cd",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "a780487b87444576a02e580e49966c89",
+      "name": "6' shadow box with 8' panels, 6 x 6 posts,  top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "0654c688bae943f19d93406cbe2c101c",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "5d56c501bfb54847807979174f09991c",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "bfc2d4f21113481ca9f277eb68d7144e",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "3358acf3d695479bad7cf9cdc76e5398",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "d594ece0d7a04020b8785b2b9eb624c2",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "be7e05cb1a114f288858b2c48c96814c",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "2e9441f41cbe4694a72f8d192b37a8d0",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "e13b72f53edd40889a2b71bae698b748",
+          "name": "Labor - 6' SB w/ 6 x 6 posts,  top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "6ab0495a231d4b0a85317aea2461cc2a",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "cec38d6f0c034d07abcbf195bf09c91b",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "0541c35363ab4fd4a5bdbf6b26ad7b99",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "8fd08f9fee0e41b3949b01d5c066e191",
+      "name": "6' shadow box with 10' panels, top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "fc69e30b70204aba94fc3c8eb5fdb4ac",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "e99d5416c8a14885b429ccbc6d2026df",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "7e1becb090194f509aa9235b98e0941f",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "d03197a4f4434695b724ce492cb357ab",
+          "name": "2 x 6 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "54226e24ac7a492ca475ba00258d9f48",
+          "name": "4 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "d6dc570954464d078a81a9bb53283fc7",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "281ea93ce69d4e6bab4ecc8c2ef702f8",
+          "name": "Labor - 6' SB w/ top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "2ed848a75123431093956ad13e5e3abe",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "2ef547fe63b3435490e57b5adda875eb",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "1492783a0de84cf7ad67fbe86b6b41de",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "ccf30e0adce04ded9b6436e81041f7b4",
+      "name": "6' shadow box with 10' panels, 6 x 6 posts, top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "8908a2bf7a6e4936967ac334545b3e76",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "6edb665b8b144f34aff74adbc3196332",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "8aeb0e289dd649fc89be936aa5779cf1",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "e0f5902735bf4d5c9d735fa1a574e9f9",
+          "name": "2 x 6 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "93961c1329474c4cb0ec6105361428e4",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "b98d1949431e431d9e91cd67e43b7731",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "0fc18eb9924442ab8116a98e4a102a06",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "a758b571aa45448c955bdc1a6ea18b32",
+          "name": "Labor - 6' SB w/ 6 x 6 posts,  top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "e926a053407544b99a91c510cbe160b8",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "2f2f1c684b9441b09607cbf94078ab6b",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "34186f503d6241b893d0fd907956a0d9",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "45358a7e2c3d44d0ae9cb58b4bfaebd9",
+      "name": "6' good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 6 top and bottom trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "39b8b5e537c6473098fc97ef9f806a0d",
+          "name": "1 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "66a52925e301473380f9c91cb6f16053",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "e22c3dc00ec14453a9646a887e2c13b8",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "c615c78318f6416dafdcfda2d93ff08c",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "cf1b5391115e432ba1575fcf8f9c2288",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "38b7792cc14e4e15bcd1cca51680f14f",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "c5cb6148fe5b4584882a59a53d032062",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "4cb2f39d26b24925884c6fe86df3891d",
+          "name": "Labor - 6' GN w/ top cap, top and bottom trim",
+          "node_type": "product"
+        },
+        {
+          "id": "02b00ecd35c94626b494de61d5b93fa3",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "b02d3999f61c4a0a80fefe350b9cec57",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "693de126d5cf4b628ade93d738af0553",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "66ab141f20604aec839b148011110262",
+      "name": "6' board on board good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 6 top and bottom trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "ca9fcd95f3a54717bd19cd2a2047f5d7",
+          "name": "1 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "23bcd0dd04e04541a4789a8a19bccfca",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "2e50417013ad4a589b847eec22221108",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "5ccedb2ae3a24e698f7660033b75bdc9",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "6bc68d08a5c54789a033625f5e8a10c6",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "50b86ae7026d4e36b99a986eb6772245",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "d6569201441e46f8a24beec215b163b3",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "a449d7b7a38644d3866631e59ae4c76f",
+          "name": "Labor - 6' GN BOB w/top cap,  top and bottom trim",
+          "node_type": "product"
+        },
+        {
+          "id": "f864204ef5774c939e6afecdb5ea02ca",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "9ac15a632f1f43af9264d52a57084334",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "f5d87d37701a4f70bdfc284b00a4fa6c",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "1c16aa13fa2c4d4b988a9b482c6b90e4",
+      "name": "6' privacy with 10' panels and metal post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "6e21a67b1b74424c96fcee33e5abda6a",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "694dc09b11b4489e99718d0e75de091a",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "749a003a160d4052b183ae16b5be5a9c",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "9e390b9b543448ad909064df7479b625",
+          "name": "Metal Post",
+          "node_type": "product"
+        },
+        {
+          "id": "e58dcd8be26c4755abf79a9b4d02c22a",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "f52d1824df6b49cebaec041bc79c2042",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "22ba31842e81437ab60c2a4dfa9bad0b",
+          "name": "labor - 6' stkd",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "23f4a88102554a6faed812a1fc660bfd",
+      "name": "6' privacy with 10' panels with top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "ea8a72001d6644b3831392f7859fe84b",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "a87de9d9fcdf4146abd7a8e3ef6de669",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "01a3f72097b340d8a61581905eb1fc35",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "0bffd57953ff4f949f6a690cdc50d2dc",
+          "name": "2 x 6 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "cf838d34ba3d424fa3bdc5df66ebeabd",
+          "name": "4 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "225334d354b44481a161567086dca39e",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "d061a96dbac240b2b8634d6938977099",
+          "name": "Labor - 6' stkd w/top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "e77e2914a67e4796b55ca32a1d597c03",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "8b90c61f8bb146c7a1549817687a31c4",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "b2bd148ba5df482d8e74a1eaaf37b8fa",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "a40144539af541b1b2648232bb8ef4ea",
+      "name": "6' privacy with 8' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "4a4dc09961994908ae4caa19f7d30b2d",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "5aff9cef6ecc48bb8fda7dab6573b43a",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "7c291e3750cd46df8438dcce66d91224",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "c2047653a133410d97f081923b5b6c7a",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "b14cfb479ee0455798ce27481d78c2e5",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "facc6753f7c14891b684dd1e9ef4187c",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "58b59b3351794373a98bce6b5e670ebf",
+          "name": "labor - 6' stkd",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "a9d0dfaa1be24e0f8b3158430ad897bc",
+      "name": "6' privacy with 8' panels and metal post",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "eec20cfc3e5c4fb38afc1d6aa7699a2f",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "6b949e87222945b7afbe41c0c58453cd",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "4bc295cf00d84fa4a4c2355235cdfc23",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "ccb23fd7396942368690cd22626f0c5d",
+          "name": "Metal Post",
+          "node_type": "product"
+        },
+        {
+          "id": "f1d421f9163c4184945393b89ced9db9",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "ff4673a06c764bc29ec668031a031493",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "8b9fd5f014584c4cbaf21ba03a33c213",
+          "name": "labor - 6' stkd",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "c5db3ed566114ead9040409d6000ece0",
+      "name": "6' privacy with 10' panels, top cap and trim with bottom trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "67adf3b1bb1f4241910edc6c4e5aad94",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "cfce9a511ade4571bade73b348eb249b",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "86fd3f8dac104088aad7a8ed860237db",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "66b65ecec87847068461fc44693c01ca",
+          "name": "2 x 6 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "75f093fe828b4c599acf3a5127faa8e3",
+          "name": "4 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "7993c224eb3f4a1f8c1c8940f745b7cf",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "406c1c47fe044bce88aec5d6804c71d7",
+          "name": "Labor - 6' stkd w/top cap, top and bottom trim",
+          "node_type": "product"
+        },
+        {
+          "id": "c04f614d1d554712a0ce988a569ba32c",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "378259d6ed254f6f85198392d4b5f9c4",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "25e7cb3c805e4279a6dd37aa197b3705",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "a3d42302126d4aceada71d69f92b8893",
+      "name": "8' good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 6 top and bottom trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "2a94fe64e52c4410ad740a38e0ea3558",
+          "name": "1 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "0ceacfe35e1447fbbb800a96145a6b27",
+          "name": "1 x 6 x 8 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "bdf950874ae0410ea520684e044c9ddf",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "3f799407b8894441ae02145f25152792",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "1e7b9d2ec65c427bae95667a448f3b60",
+          "name": "6 x 6 x 12",
+          "node_type": "product"
+        },
+        {
+          "id": "217aff1cab9f43d795bb37378fcde6b0",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "7f595c50328d408fb002262ec6d6f2f3",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "9ee17295fd40440eb54ae5e76ef89110",
+          "name": "Labor - 8' w/top cap, top and bottom trim",
+          "node_type": "product"
+        },
+        {
+          "id": "1b5b1874c68e4e7d980d118ba150d055",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "b1a749f5f55b497b855afad857e309ef",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "57ddb0252b054d9db5307add0af7c5a8",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "288c423f0ed140a4b7c9d3805daa3922",
+      "name": "8' good neighbor with 8' sections and 6 x 6 posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "301b95eca8f3423a88d1501752b7d86d",
+          "name": "1 x 6 x 8 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "f51816cdc19847508983908a650b8ed7",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "67833a59662a4edcb36250ac61c63216",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "6d5c9b28b5db4a858e78b421b2da159e",
+          "name": "6 x 6 x 12",
+          "node_type": "product"
+        },
+        {
+          "id": "56e4482a23a0457186130ab8921de75f",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "8e4a374a15b84a1cba446db86feb6f13",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "716727e038bd478cbc6cb57442fc346e",
+          "name": "Labor - 8' GN",
+          "node_type": "product"
+        },
+        {
+          "id": "d423f10f89bd40e5aefac04f8a84e8b3",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "04f1f275866840db8518d2b31fff4854",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "8bb63ee541b7429ca50899702ddaeb56",
+      "name": "6' board on board with 10' panels and 6 x 6 posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "f8f6feb2f48e4eceab42ec1df662b5a0",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "88bf9a901fec4917a6c109cc2ec33885",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "4e286f1175dd493fae389dc245a21e59",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "c4a38362824b4bcda6874ee872dd7a79",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "2c73e22ebd554fb8b9c6010ee9d9bdae",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "11567d597dbc413989bda4291bdf6632",
+          "name": "Labor - 6' BOB w/ 6 x 6 posts",
+          "node_type": "product"
+        },
+        {
+          "id": "0405c10160544d359543ea7344272c39",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "6aa0c1da47304004886ee7b29a619313",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "467c9895baa24e11a178061bc3c0c72c",
+      "name": "6' board on board with 8' panels and 6 x 6 posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "a8c0400839834f10b1d60118427dd0f7",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "fd4abe397ee846a483322dc6ade192c6",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "9b3a9d7150ad4d54bb0c0a38c514c3f2",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "010d93be83e14ec096fc20a618571c72",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "a01f73e4fb244e82ad64c5d2aadcf940",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "5cd2980b37704a31856473b79c11bdaa",
+          "name": "Labor - 6' BOB w/ 6 x 6 posts",
+          "node_type": "product"
+        },
+        {
+          "id": "d5aba9b859ad44feb4d224659787266d",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "c64779793bf14bba9e4e0769e4262386",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "3d66bc1406694ee0925d441d79ea0907",
+      "name": "6' board on board with 8' panels, 6 x 6 posts,  top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "88d6f45f290944ebbe195bedeccef3b3",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "4c16e24117234d319008fbd2f37e1d69",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "89f8ac7fac564f668372775f5e4bb0f8",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "d39d48a0af8c48fa9b8d3c0f5a217244",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "7f549f899b6a4ffaacd1ab21ec3306ab",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "cae61058d5cd4a54b536adf6e1aa2e75",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "1dc4e951ed764dc7bfd720d6bbc4bc43",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "8003c0e96a3c4e7fa055b59b5535e7a9",
+          "name": "Labor - 6'  BOB w/6 x 6 posts, top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "f40c86bc68274f8da8c93a93268ca2e2",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "dab88f6f5aaf4e178b0e3000d2a5e8f5",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "a24195a64b03467691b4ca91b88bb02c",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "a3cb693b9e7b4dc0b8011ea0cfb1f658",
+      "name": "6' good neighbor with 8' sections, 6 x 6 posts, top cap, 1 x 4 top and bottom trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "736c7e14af504bd8be62969970099fb9",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "9e8fa41cc40b4998a2ddf4f940dd4c80",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "a2c0d0fb2c5645e3ac34a9182ed27a1e",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "b836ed6389364a428aa2918132a8e251",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "dd2207674ea3452c99490adbdc2bd558",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "bdc2b533e2c444e79c65a7a66e3648e8",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "5497323616e34641b9f9d4898c0e592c",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "eb8f4323168d4872a73ef5acb043a836",
+          "name": "Labor - 6' GN w/ top cap, top and bottom trim",
+          "node_type": "product"
+        },
+        {
+          "id": "41b5eefdf804457abba941d76b5b084a",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "84dbf195f4ef4e6a840c0abda3f561d2",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "3eef56844c3b44acaa720e7be57d1575",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "10c2316c14f241e0b97d0a61031e2891",
+      "name": "6' good neighbor with 8' sections and 6 x 6 posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "8ffc569ee1a44a439f26c287ca161e59",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "1223b06e1f7144e4a2dcdfe1168fba67",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "f0302ddb8cd84086848751880860f09e",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "a630b374962f439e8cafc3d07dfac7d8",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "63d45ab1cef2451db989f678e797c907",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "1f9e42e5b08b41f4a564c0bd6f04a79a",
+          "name": "Labor - 6' GN",
+          "node_type": "product"
+        },
+        {
+          "id": "5c5d8efd1612457d846512e2408ab069",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "521802c37d754fd1a995bc624b735c19",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "8079eca6bc3640ad88a9c4768b4f04f2",
+      "name": "6' shadow box with 8' panels and 6 x 6 posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "37fd37e08b444ba6a1d4ee2c7621e485",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "b22856efe26040a5a7baed1000ba93f4",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "9103a493ac5a4f36bc3cecb6ae0cd0d7",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "c43f2849d47b45689df82708b96dce21",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "438c8d1b08044093abeab404df1ddc70",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "2360093d3df343fcb4bcd48b47c515e7",
+          "name": "Labor - 6' SB w/ 6 x 6 posts",
+          "node_type": "product"
+        },
+        {
+          "id": "01657d6492224a07b2765c4cc0070c38",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "f56ea08f97924610a37aba9aed0b2538",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "c42350a0f84c42608192c1196c2d0ce3",
+      "name": "6' board on board with 10' panels, top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "630d973ae9794471b2fe44bd252c594c",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "253ef82ed6544e66943ab3c9acf74085",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "20a0d175e6be49bfac9cac0aad339ff5",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "f361a5b0eb194d1c8d8c8855b77334ec",
+          "name": "2 x 6 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "34afcd77ad5c46bea5234214e0dbdcaa",
+          "name": "4 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "0c7be663d6714906918ddff32890f5c2",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "3a5e176e6cca4f669d695ee74ee2d08c",
+          "name": "Labor - 6' BOB w/top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "7f6e9e1b2ff5468a8cd3932916b700df",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "d33cb0fc17a94a9fa593f8c482d3a8f8",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "984ea3a5cb4a498ea2c811bb1a60028c",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "3402cdf2b3474ded8ae684dda2e4ab0c",
+      "name": "6' board on board with 8' panels, top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "806b89f1d1d34730acbc806f7616e9e7",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "749593074bdb4b8b90a495d7169efff9",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "0eae80d32e594747b4302f5203898f52",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "218e8ecf74964e15b2c311b161ee3e45",
+          "name": "2 x 6 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "3ca93a38c384485ca91e1e856645b5b1",
+          "name": "4 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "c9724c81c7f04b1386b974b5847a4f5a",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "6546efbdee8648d881b896bb2e23ac9c",
+          "name": "Labor - 6' BOB w/top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "66b99bda71f046ef8a83fc1e4a6c37c4",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "3535b54f474944039c5746c1784dbe03",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "e16c85c487cc4abb9cb915ba66818a99",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "199ed2d7f12f47b984f835b1f2623bc2",
+      "name": "8' privacy with 10' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "30bf60f795c0413eac379d35578be8c7",
+          "name": "1 x 6 x 8 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "5b6a7a524cf648f6bd631af60a7887f7",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "d5b3459f420448d2b7dbe0d7fbc73894",
+          "name": "4 x 4 x 12",
+          "node_type": "product"
+        },
+        {
+          "id": "d5bc2d1e24794bab8bf5ad90d27fcdc5",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "44ee8fec50b1410ba5342965eb069a26",
+          "name": "Labor - 8' stkd",
+          "node_type": "product"
+        },
+        {
+          "id": "86075535c9904d26bc308abbc682b707",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "d617809a22b44f779155cdf23d135f20",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "aeb2b9aa8c0046ef88660eb90e186e91",
+      "name": "8' privacy with 8' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "4f0cc9f854504e739a2d4f8a8662cd74",
+          "name": "1 x 6 x 8 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "796b4d6d47ff4f9587342cbc92b81c9a",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "398a16118f3346e7b17e057203207aeb",
+          "name": "4 x 4 x 12",
+          "node_type": "product"
+        },
+        {
+          "id": "5f6fab73e3834bd4b7396dea5c3353b9",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "5631e691479f4b59bcf92c909cf39285",
+          "name": "Labor - 8' stkd",
+          "node_type": "product"
+        },
+        {
+          "id": "7f34e18c4f284262aa23e2bd53bb7e2c",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "a6b771b863084e959ab34646980128a4",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "12020dbe8b0a43da8109d9da3b608a69",
+      "name": "4' privacy with 8' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "9c6d1875472648179a577302079b6795",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "d7890d92a76341c3b62d9bcc22332a53",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "05d81f39112e4e5c979b06091cb5ae24",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "0be7cab71b18493598073ace9b0dcd45",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "579e2368889a410db5730778e2ac125a",
+          "name": "Labor - 4' stkd",
+          "node_type": "product"
+        },
+        {
+          "id": "3ba0abd34ed24e31b6e87988ff7248c6",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "b36a70fb1a074aacaf0a98d00625316c",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "04db34c4c9d7449a90cf2ba14833dafb",
+      "name": "6' board on board with 8' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "3d63993e3ac242e385b412148d7cad51",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "3a9e309df31f412ab9881a7a8c320115",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "03742249b6c047169ee2f37ac901c03c",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "01071a8a22584979aa21c5fcc76a4b12",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "e61e1a41c4f14345b8cf13cf7d29bd24",
+          "name": "Labor - 6' BOB",
+          "node_type": "product"
+        },
+        {
+          "id": "023b0642ec4c4e2487fe21f19139aa16",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "01644d6f47fc434c933c3f83e95e90b1",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "33420a1fb83a40f39640557e334d820a",
+      "name": "4' wood picket with 8' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "d73e95292d29435bb01b648ae90ffdb1",
+          "name": "2 x 4 x 16",
+          "node_type": "product"
+        },
+        {
+          "id": "e868cf481a424012aac7a9a6bc04b4e8",
+          "name": "3/4 x 3-1/2 x 4 picket",
+          "node_type": "product"
+        },
+        {
+          "id": "7837747ff40d4b3bb5ca4f9027eb1e4e",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "f4edf4ee55664ddb82ad600ab4e46cd9",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "1184ebce783e4fb4a14d22fbe8002d8d",
+          "name": "Labor - 4'  pkt",
+          "node_type": "product"
+        },
+        {
+          "id": "37d6c42b56144d12a8bda4ee4e903fc0",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "c4d33b184eff4792821a778ba2b143a1",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "28213024423748ffbbbccc24f4d7a0d0",
+      "name": "6' board on board with 10' panels",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "efa5a1717fdd436690716b165a6c6b1b",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "df1199234f174330bd463c63bb56ed33",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "2bbaa0f5d105489c9cf4af3606650640",
+          "name": "4 x 4 x 8 post",
+          "node_type": "product"
+        },
+        {
+          "id": "745ba0c25ed64d14ad9cca7d70c0165d",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "d51a8de81d194dc0990d2b1d173b00bd",
+          "name": "Labor - 6' BOB",
+          "node_type": "product"
+        },
+        {
+          "id": "de9657ccba78493db26e6d24f0d091ce",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "8171eb3fd679477e84289c68655db0c6",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "06545e1e842f413984fc7bb8e0f9236b",
+      "name": "6' privacy with 10' panels and 6 x 6 posts",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "fe8031d6d6714ddeb404757bd788961f",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "41e074247a0948cfb62bbf0c5c401daf",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "8b16c8247da24af6a7e7a1c490727505",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "54b9bcd1430b4538a63fdd7e497d8dc8",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "52d56c2a56fa46a9add888642c66beac",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "ce9522bf058545bda65ed35a1e7e52ce",
+          "name": "Labor - 6' stkd w/6 x 6 posts",
+          "node_type": "product"
+        },
+        {
+          "id": "bb7c677ee81749dbbbc872437c34e7cb",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "5f93ac6c13d8499eaeb1f8a4aa09fc78",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "c508d7da8ff948e1ac4b0cac450615c1",
+      "name": "6' board on board with 10' panels, 6 x 6 posts, top cap and trim",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "292b216c0d304d7eb833bf59e241238c",
+          "name": "1 x 4 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "e860a87ff0c94048bd93b08fee2b7084",
+          "name": "1 x 6 x 6 pick",
+          "node_type": "product"
+        },
+        {
+          "id": "7601e0fa851c4b09ba1792239174610c",
+          "name": "2 x 4 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "0074c9ec85e24515b747f8440bd0f6c1",
+          "name": "2 x 6 x 20",
+          "node_type": "product"
+        },
+        {
+          "id": "fdabb3477199432ebe43c512809c50c2",
+          "name": "6 x 6 x 10",
+          "node_type": "product"
+        },
+        {
+          "id": "f5803bc4c32849a79fa5557ffd5e8f22",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "f041e1a1edd64490ae011bccf49985e5",
+          "name": "Custom cut post option",
+          "node_type": "product"
+        },
+        {
+          "id": "2e3243afdb03409da42cc883c29580ef",
+          "name": "Labor - 6'  BOB w/6 x 6 posts, top cap and trim",
+          "node_type": "product"
+        },
+        {
+          "id": "b15dbae2f6974572a4d9489cf0d1cc41",
+          "name": "Nails",
+          "node_type": "product"
+        },
+        {
+          "id": "a20a79d396f14cd0b0589bf3ebfd2036",
+          "name": "Remove soil from yard option",
+          "node_type": "product"
+        },
+        {
+          "id": "546bc40c8b5b4d7da194cd2835ed3063",
+          "name": "Screws",
+          "node_type": "product"
+        }
+      ]
+    },
+    {
+      "id": "8f55a7020c6247b9b90ed4ece9f2065f",
+      "name": "Aluminum",
+      "node_type": "bundle",
+      "children": [
+        {
+          "id": "9004d5fd24a144b89712fb84afc22d07",
+          "name": "Aluminum Fence Style",
+          "node_type": "option_set",
+          "options": ["4' Aluminum Fence", "5' Aluminum Fence"]
+        },
+        {
+          "id": "d0b1c23cd3774b3da701af78c73a363c",
+          "name": "6' panel",
+          "node_type": "product"
+        },
+        {
+          "id": "3dffeff020e345be8ab789d5a3a40904",
+          "name": "Concrete 80lb",
+          "node_type": "product"
+        },
+        {
+          "id": "c7c1ff344c884ea1b8fd3e3c39626192",
+          "name": "Flat mount bracket",
+          "node_type": "product"
+        },
+        {
+          "id": "67c693b1925043f587139332c975fa76",
+          "name": "Line post",
+          "node_type": "product"
+        },
+        {
+          "id": "03e73ab13c144f679c66594189a3c56a",
+          "name": "Surface mount plate",
+          "node_type": "product"
+        },
+        {
+          "id": "d27c6bc0eb6c4336bb2a02ec06f5e4cc",
+          "name": "Swivel bracket",
+          "node_type": "product"
+        }
+      ]
+    }
+  ]
+}
