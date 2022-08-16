@@ -1,11 +1,16 @@
-import ReactDOM from "react-dom";
 import G6, { TreeGraph } from "@antv/g6";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
+import { Data, TreeNode } from "./types";
 
-export default function Tree({ data, name, pageSize }) {
+type Props = {
+  data: Data;
+  name: string;
+  pageSize: number;
+};
+export default function Tree({ data, name, pageSize }: Props) {
   const node = useRef<HTMLDivElement | null>(null);
 
-  const graph = useRef<TreeGraph>(null);
+  const graph = useRef<TreeGraph | null>(null);
   useEffect(() => {
     // if (graph) {
     //   return;
@@ -20,20 +25,19 @@ export default function Tree({ data, name, pageSize }) {
       // 自定义 tooltip 内容
       getContent: (e) => {
         const outDiv = document.createElement("div");
-        console.log(e.item?.getModel().options);
         outDiv.style.width = "fit-content";
         //outDiv.style.padding = '0px 0px 20px 0px';
+        const options: string[] =
+          (e?.item?.getModel().options as string[]) || [];
         outDiv.innerHTML = `
           <ul>
-          ${(e.item?.getModel().options || [])
-            .map((item) => `<li>${item}</li>`)
-            .join("")}
+          ${options.map((item) => `<li>${item}</li>`).join("")}
           </ul>
           `;
         return outDiv;
       },
       shouldBegin: (e) => {
-        return e.item?.getModel().node_type == "option_set";
+        return e?.item?.getModel().node_type == "option_set";
       },
     });
 
@@ -50,7 +54,7 @@ export default function Tree({ data, name, pageSize }) {
           {
             type: "collapse-expand",
             onChange: function onChange(item, collapsed) {
-              const data = item.get("model");
+              const data = item?.get("model");
               data.collapsed = collapsed;
               return true;
             },
@@ -66,7 +70,7 @@ export default function Tree({ data, name, pageSize }) {
       layout: {
         type: "compactBox",
         direction: "LR",
-        getId: function getId(d) {
+        getId: function getId(d: TreeNode) {
           return d.id;
         },
         getHeight: function getHeight() {
@@ -84,12 +88,13 @@ export default function Tree({ data, name, pageSize }) {
       },
     });
 
-    graph.current.node(function (node) {
+    // @ts-expect-error
+    graph.current.node(function (node: TreeNode) {
       const color_map = {
         product: "#3991f1",
         bundle: "#4af2a1",
         option_set: "#b0f566",
-      };
+      } as const;
       const fill = color_map[node.node_type];
       return {
         size: 16,
@@ -109,15 +114,6 @@ export default function Tree({ data, name, pageSize }) {
         },
       };
     });
-    let i = 0;
-    // graph.edge(function () {
-    //   i++;
-    //   return {
-    //     type: "cubic-horizontal",
-    //     color: "#A3B1BF",
-    //     label: i,
-    //   };
-    // });
 
     graph.current.data(data);
     graph.current.render();
@@ -125,10 +121,13 @@ export default function Tree({ data, name, pageSize }) {
 
     if (typeof window !== "undefined")
       window.onresize = () => {
-        if (!graph || graph.current.get("destroyed")) return;
+        if (!graph || graph.current?.get("destroyed")) return;
         if (!container || !container.scrollWidth || !container.scrollHeight)
           return;
-        graph.changeSize(container.scrollWidth, container.scrollHeight);
+        graph.current?.changeSize(
+          container.scrollWidth,
+          container.scrollHeight
+        );
       };
   }, [data]);
   return (

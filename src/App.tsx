@@ -8,6 +8,7 @@ import fenceworks from "./data/3_23 Fenceworks LLC.json";
 import henderson from "./data/Henderson Fence.json";
 import fenceline from "./data/Fence_Line_Construction.json";
 import sourthern from "./data/Southern Exteriors Fence Co.json";
+import { Data } from "./types";
 
 const datas = {
   "Hardy Fence": hardy,
@@ -17,6 +18,8 @@ const datas = {
   "Henderson Fence": henderson,
   "Fence Line Construction": fenceline,
   "Southern Exteriors Fence Co": sourthern,
+} as {
+  [key: string]: any;
 };
 const companies = Object.keys(datas);
 
@@ -32,7 +35,7 @@ function App() {
     id: "root",
     name: "",
     children: nodes.slice((page - 1) * pageSize, page * pageSize),
-  };
+  } as Data;
 
   return (
     <div className="px-4">
