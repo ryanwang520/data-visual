@@ -67,7 +67,7 @@ function App() {
           </Select>
         </FormControl>
         <FormControl>
-          <FormLabel>Bundles per page</FormLabel>
+          <FormLabel>Root bundles per page</FormLabel>
           <Select
             value={pageSize}
             onChange={(e) => {
