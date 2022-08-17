@@ -8,7 +8,15 @@ import henderson from "./data/Henderson Fence.json";
 import fenceline from "./data/Fence_Line_Construction.json";
 import sourthern from "./data/Southern Exteriors Fence Co.json";
 import { Data } from "./types";
-import { Box, Button, ButtonGroup, Select } from "@chakra-ui/react";
+import {
+  Box,
+  Button,
+  ButtonGroup,
+  FormControl,
+  FormLabel,
+  Select,
+  Text,
+} from "@chakra-ui/react";
 import { TreeGraph } from "@antv/g6";
 
 const datas = {
@@ -40,23 +48,41 @@ function App() {
   const graph = useRef<TreeGraph | null>(null);
 
   return (
-    <div className="px-4">
-      <Box className="py-4 space-x-8 flex items-center">
-        <Select
-          w="60"
-          value={company}
-          onChange={(e) => {
-            setCompany(e.target.value);
-            setPage(1);
-          }}
-        >
-          {companies.map((c) => (
-            <option key={c} value={c}>
-              {c}
-            </option>
-          ))}
-        </Select>
-        <div className="flex space-x-4 items-center">
+    <div className="px-4 flex">
+      <Box className="space-y-8 mt-8 ml-5 flex flex-col flex-shrink-0">
+        <FormControl>
+          <FormLabel>Company</FormLabel>
+          <Select
+            value={company}
+            onChange={(e) => {
+              setCompany(e.target.value);
+              setPage(1);
+            }}
+          >
+            {companies.map((c) => (
+              <option key={c} value={c}>
+                {c}
+              </option>
+            ))}
+          </Select>
+        </FormControl>
+        <FormControl>
+          <FormLabel>Bundles per page</FormLabel>
+          <Select
+            value={pageSize}
+            onChange={(e) => {
+              setPage(1);
+              setPageSize(+e.target.value);
+            }}
+          >
+            {[5, 10, 20, 50, 100, 200].map((c) => (
+              <option key={c} value={c}>
+                {c}
+              </option>
+            ))}
+          </Select>
+        </FormControl>
+        <div className="flex justify-between w-full items-center">
           <Button
             colorScheme="orange"
             onClick={() => setPage((p) => p - 1)}
@@ -73,23 +99,7 @@ function App() {
             Next
           </Button>
         </div>
-        <label htmlFor="pageSizeSelector">Page Size</label>
-        <Select
-          w="20"
-          id="pageSizeSelector"
-          value={pageSize}
-          onChange={(e) => {
-            setPage(1);
-            setPageSize(+e.target.value);
-          }}
-        >
-          {[5, 10, 20, 50, 100, 200].map((c) => (
-            <option key={c} value={c}>
-              {c}
-            </option>
-          ))}
-        </Select>
-        <div className="space-x-2">
+        <div className="space-x-2 flex items-center">
           <Button
             colorScheme={"orange"}
             disabled={pageSize > 20}
@@ -103,10 +113,12 @@ function App() {
           >
             Export As PNG
           </Button>
-          {pageSize > 20 && <span>Too large to export</span>}
+          {pageSize > 20 && <Text color="red.400">Too large to export</Text>}
         </div>
       </Box>
-      <Tree name={company} graph={graph} data={data} />
+      <div className="flex-grow">
+        <Tree name={company} graph={graph} data={data} />
+      </div>
     </div>
   );
 }
