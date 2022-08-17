@@ -1,5 +1,4 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import { useRef, useState } from "react";
 import Tree from "./Tree";
 import hardy from "./data/Hardy Fence.json";
 import ozark from "./data/Ozark Fence.json";
@@ -9,6 +8,8 @@ import henderson from "./data/Henderson Fence.json";
 import fenceline from "./data/Fence_Line_Construction.json";
 import sourthern from "./data/Southern Exteriors Fence Co.json";
 import { Data } from "./types";
+import { Box, Button, ButtonGroup, Select } from "@chakra-ui/react";
+import { TreeGraph } from "@antv/g6";
 
 const datas = {
   "Hardy Fence": hardy,
@@ -36,11 +37,13 @@ function App() {
     name: "",
     children: nodes.slice((page - 1) * pageSize, page * pageSize),
   } as Data;
+  const graph = useRef<TreeGraph | null>(null);
 
   return (
     <div className="px-4">
-      <div className="py-4 space-x-8 flex items-center">
-        <select
+      <Box className="py-4 space-x-8 flex items-center">
+        <Select
+          w="60"
           value={company}
           onChange={(e) => {
             setCompany(e.target.value);
@@ -52,26 +55,27 @@ function App() {
               {c}
             </option>
           ))}
-        </select>
+        </Select>
         <div className="flex space-x-4 items-center">
-          <button
-            className="btn"
+          <Button
+            colorScheme="orange"
             onClick={() => setPage((p) => p - 1)}
             disabled={page <= 1}
           >
             Prev
-          </button>
+          </Button>
           <div>Page {page}</div>
-          <button
-            className="btn"
+          <Button
+            colorScheme="orange"
             onClick={() => setPage((p) => p + 1)}
             disabled={page >= nodes.length / pageSize}
           >
             Next
-          </button>
+          </Button>
         </div>
         <label htmlFor="pageSizeSelector">Page Size</label>
-        <select
+        <Select
+          w="20"
           id="pageSizeSelector"
           value={pageSize}
           onChange={(e) => {
@@ -84,10 +88,25 @@ function App() {
               {c}
             </option>
           ))}
-        </select>
-      </div>
-
-      <Tree name={company} pageSize={pageSize} data={data} />
+        </Select>
+        <div className="space-x-2">
+          <Button
+            colorScheme={"orange"}
+            disabled={pageSize > 20}
+            className="btn"
+            onClick={() => {
+              graph.current?.downloadFullImage(company, "image/png", {
+                backgroundColor: "#ddd",
+                padding: [30, 15, 15, 15],
+              });
+            }}
+          >
+            Export As PNG
+          </Button>
+          {pageSize > 20 && <span>Too large to export</span>}
+        </div>
+      </Box>
+      <Tree name={company} graph={graph} data={data} />
     </div>
   );
 }
