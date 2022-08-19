@@ -48,7 +48,7 @@ function App() {
   const graph = useRef<TreeGraph | null>(null);
 
   return (
-    <div className="px-4 flex">
+    <div className="px-4 flex md:flex-row flex-col">
       <Box className="space-y-8 mt-8 ml-5 flex flex-col flex-shrink-0">
         <FormControl>
           <FormLabel>Company</FormLabel>
